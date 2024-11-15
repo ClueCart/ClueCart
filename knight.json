@@ -8,7 +8,7 @@
         },
         {
             "id": 2,
-            "name": "KINGS PASS",
+            "name": "Kings Pass",
             "class": "location",
             "src": "knight_image/Screenshot_20240826_214847860.png"
         },
@@ -20,7 +20,7 @@
         },
         {
             "id": 4,
-            "name": "TOWN",
+            "name": "Town",
             "class": "location",
             "src": "knight_image/Screenshot_20240826_215032272.png"
         },
@@ -33,13 +33,13 @@
         },
         {
             "id": 6,
-            "name": "CROSSROADS",
+            "name": "Crossroads",
             "class": "location",
             "src": "knight_image/Screenshot_20240826_215211337.png"
         },
         {
             "id": 7,
-            "name": "GREEN PATH",
+            "name": "Green Path",
             "class": "location",
             "src": "knight_image/Screenshot_20240826_223534132.png"
         },
@@ -51,7 +51,7 @@
         },
         {
             "id": 9,
-            "name": "WASTES",
+            "name": "Wastes",
             "class": "location",
             "src": "knight_image/Screenshot_20240826_234147812.png"
         },
@@ -64,13 +64,13 @@
         },
         {
             "id": 11,
-            "name": "CITY",
+            "name": "City",
             "class": "location",
             "src": "knight_image/Screenshot_20240827_144329748.png"
         },
         {
             "id": 12,
-            "name": "WATERWAYS",
+            "name": "Waterways",
             "class": "location",
             "src": "knight_image/Screenshot_20240827_203953690.png"
         },
@@ -82,19 +82,19 @@
         },
         {
             "id": 14,
-            "name": "FOG CANYON",
+            "name": "Fog Canyon",
             "class": "location",
             "src": "knight_image/Screenshot_20240828_150243037.png"
         },
         {
             "id": 15,
-            "name": "RESTING GROUNDS",
+            "name": "Resting Grounds",
             "class": "location",
             "src": "knight_image/Screenshot_20240827_184331160.png"
         },
         {
             "id": 16,
-            "name": "ROYAL GARDENS",
+            "name": "Royal Gardens",
             "class": "location",
             "src": "knight_image/Screenshot_20240828_153400723.png"
         },
@@ -124,7 +124,7 @@
         },
         {
             "id": 21,
-            "name": "SHAMAN TEMPLE",
+            "name": "Shaman Temple",
             "class": "location",
             "src": "knight_image/Screenshot_20240826_222814679.png"
         },
@@ -136,7 +136,7 @@
         },
         {
             "id": 23,
-            "name": "MINES",
+            "name": "Mines",
             "class": "location",
             "src": "knight_image/Screenshot_20240827_162523609.png"
         },
@@ -148,7 +148,7 @@
         },
         {
             "id": 25,
-            "name": "ABYSS",
+            "name": "Abyss",
             "class": "location",
             "src": "knight_image/Screenshot_20240827_215005192.png"
         },
@@ -173,7 +173,7 @@
         },
         {
             "id": 29,
-            "name": "OUTSKIRTS",
+            "name": "Outskirts",
             "class": "location",
             "src": "knight_image/Screenshot_20240827_213840656.png"
         },
@@ -209,7 +209,7 @@
         },
         {
             "id": 35,
-            "name": "QUEENS STATION",
+            "name": "Queens Station",
             "class": "location",
             "src": "knight_image/Screenshot_20240826_231639716.png"
         },
@@ -254,13 +254,13 @@
         },
         {
             "id": 42,
-            "name": "SOUL SOCIETY",
+            "name": "Soul Society",
             "class": "location",
             "src": "knight_image/Screenshot_20240827_150937223.png"
         },
         {
             "id": 43,
-            "name": "DREAM WORLD",
+            "name": "Dream World",
             "class": "location",
             "src": "knight_image/Screenshot_20240827_163938468.png"
         },
@@ -328,7 +328,7 @@
                 "forgotten"
             ],
             "tags": [
-                "DREAM WORLD"
+                "Dream World"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -345,7 +345,7 @@
             ],
             "tags": [
                 "Quirrel",
-                "MINES"
+                "Mines"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -362,7 +362,7 @@
             ],
             "tags": [
                 "Relic Dealer",
-                "CITY"
+                "City"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -378,7 +378,7 @@
                 "mask"
             ],
             "tags": [
-                "ROYAL GARDENS"
+                "Royal Gardens"
             ],
             "class": "environment",
             "inputVisible": false,
@@ -395,7 +395,7 @@
             ],
             "tags": [
                 "Iselda",
-                "TOWN"
+                "Town"
             ],
             "class": "artifact",
             "inputVisible": false,
@@ -412,7 +412,7 @@
             ],
             "tags": [
                 "Cornifer",
-                "GREEN PATH"
+                "Green Path"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -428,7 +428,7 @@
                 "leaf"
             ],
             "tags": [
-                "ROYAL GARDENS"
+                "Royal Gardens"
             ],
             "class": "text",
             "inputVisible": false,
@@ -444,7 +444,7 @@
                 "glowing"
             ],
             "tags": [
-                "RESTING GROUNDS"
+                "Resting Grounds"
             ],
             "class": "environment",
             "inputVisible": false,
@@ -461,7 +461,7 @@
             ],
             "tags": [
                 "Zote",
-                "CITY"
+                "City"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -477,7 +477,7 @@
                 "bubbles"
             ],
             "tags": [
-                "FOG CANYON"
+                "Fog Canyon"
             ],
             "class": "environment",
             "inputVisible": false,
@@ -494,7 +494,7 @@
             ],
             "tags": [
                 "Cornifer",
-                "WATERWAYS"
+                "Waterways"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -510,7 +510,7 @@
                 "green"
             ],
             "tags": [
-                "FOG CANYON"
+                "Fog Canyon"
             ],
             "class": "environment",
             "inputVisible": false,
@@ -526,7 +526,7 @@
                 "beetle"
             ],
             "tags": [
-                "MINES"
+                "Mines"
             ],
             "class": "environment",
             "inputVisible": false,
@@ -543,7 +543,7 @@
             ],
             "tags": [
                 "Elderbug",
-                "TOWN"
+                "Town"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -559,7 +559,7 @@
                 "ruins"
             ],
             "tags": [
-                "GREEN PATH"
+                "Green Path"
             ],
             "class": "environment",
             "inputVisible": false,
@@ -576,7 +576,7 @@
             ],
             "tags": [
                 "Quirrel",
-                "CITY"
+                "City"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -593,7 +593,7 @@
             ],
             "tags": [
                 "Quirrel",
-                "CROSSROADS"
+                "Crossroads"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -609,7 +609,7 @@
                 "remain"
             ],
             "tags": [
-                "RESTING GROUNDS"
+                "Resting Grounds"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -626,7 +626,7 @@
             ],
             "tags": [
                 "Dream Moth",
-                "RESTING GROUNDS"
+                "Resting Grounds"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -643,7 +643,7 @@
             ],
             "tags": [
                 "Quirrel",
-                "MINES"
+                "Mines"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -660,7 +660,7 @@
             ],
             "tags": [
                 "Elderbug",
-                "TOWN"
+                "Town"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -677,7 +677,7 @@
             ],
             "tags": [
                 "Quirrel",
-                "CROSSROADS"
+                "Crossroads"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -694,7 +694,7 @@
             ],
             "tags": [
                 "Nailsmith",
-                "CROSSROADS"
+                "Crossroads"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -711,7 +711,7 @@
             ],
             "tags": [
                 "Stag",
-                "CITY"
+                "City"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -727,7 +727,7 @@
                 "life"
             ],
             "tags": [
-                "GREEN PATH"
+                "Green Path"
             ],
             "class": "text",
             "inputVisible": false,
@@ -743,7 +743,7 @@
                 "SOUL"
             ],
             "tags": [
-                "CITY"
+                "City"
             ],
             "class": "artifact",
             "inputVisible": false,
@@ -760,7 +760,7 @@
             ],
             "tags": [
                 "Quirrel",
-                "CROSSROADS"
+                "Crossroads"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -777,7 +777,7 @@
             ],
             "tags": [
                 "Dream Moth",
-                "RESTING GROUNDS"
+                "Resting Grounds"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -794,7 +794,7 @@
             ],
             "tags": [
                 "Quirrel",
-                "CITY"
+                "City"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -810,7 +810,7 @@
                 "character"
             ],
             "tags": [
-                "RESTING GROUNDS"
+                "Resting Grounds"
             ],
             "class": "environment",
             "inputVisible": false,
@@ -826,7 +826,7 @@
                 "obstacle"
             ],
             "tags": [
-                "RESTING GROUNDS"
+                "Resting Grounds"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -843,7 +843,7 @@
             ],
             "tags": [
                 "Sly",
-                "CROSSROADS"
+                "Crossroads"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -859,7 +859,7 @@
                 "Hollow Knight"
             ],
             "tags": [
-                "FOG CANYON"
+                "Fog Canyon"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -875,7 +875,7 @@
                 "Equip"
             ],
             "tags": [
-                "SHAMAN TEMPLE"
+                "Shaman Temple"
             ],
             "class": "artifact",
             "inputVisible": false,
@@ -892,7 +892,7 @@
             ],
             "tags": [
                 "Iselda",
-                "TOWN"
+                "Town"
             ],
             "class": "artifact",
             "inputVisible": false,
@@ -908,7 +908,7 @@
                 "hunter"
             ],
             "tags": [
-                "GREEN PATH"
+                "Green Path"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -925,7 +925,7 @@
             ],
             "tags": [
                 "Leg Eater",
-                "WASTES"
+                "Wastes"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -942,7 +942,7 @@
             ],
             "tags": [
                 "Cornifer",
-                "CROSSROADS"
+                "Crossroads"
             ],
             "class": "environment",
             "inputVisible": false,
@@ -958,7 +958,7 @@
                 "new areas"
             ],
             "tags": [
-                "WASTES"
+                "Wastes"
             ],
             "class": "artifact",
             "inputVisible": false,
@@ -975,7 +975,7 @@
             ],
             "tags": [
                 "Relic Dealer",
-                "CITY"
+                "City"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -992,7 +992,7 @@
             ],
             "tags": [
                 "Cornifer",
-                "WASTES"
+                "Wastes"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -1009,7 +1009,7 @@
             ],
             "tags": [
                 "Leg Eater",
-                "WASTES"
+                "Wastes"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -1026,7 +1026,7 @@
             ],
             "tags": [
                 "Queen",
-                "ROYAL GARDENS"
+                "Royal Gardens"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -1043,7 +1043,7 @@
             ],
             "tags": [
                 "Stag",
-                "ABYSS"
+                "Abyss"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -1060,7 +1060,7 @@
             ],
             "tags": [
                 "Cornifer",
-                "ABYSS"
+                "Abyss"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -1077,7 +1077,7 @@
             ],
             "tags": [
                 "Stag",
-                "ABYSS"
+                "Abyss"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -1094,7 +1094,7 @@
             ],
             "tags": [
                 "Hornet",
-                "GREEN PATH"
+                "Green Path"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -1110,7 +1110,7 @@
                 "fly."
             ],
             "tags": [
-                "MINES"
+                "Mines"
             ],
             "class": "artifact",
             "inputVisible": false,
@@ -1126,7 +1126,7 @@
                 "peace"
             ],
             "tags": [
-                "GREEN PATH",
+                "Green Path",
                 "Test of Resolve"
             ],
             "class": "dialogue",
@@ -1144,7 +1144,7 @@
             ],
             "tags": [
                 "Cornifer",
-                "CROSSROADS"
+                "Crossroads"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -1161,7 +1161,7 @@
             ],
             "tags": [
                 "Dream Moth",
-                "RESTING GROUNDS"
+                "Resting Grounds"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -1177,7 +1177,7 @@
                 "creature"
             ],
             "tags": [
-                "CROSSROADS"
+                "Crossroads"
             ],
             "class": "environment",
             "inputVisible": false,
@@ -1193,7 +1193,7 @@
                 "vegetation"
             ],
             "tags": [
-                "ROYAL GARDENS"
+                "Royal Gardens"
             ],
             "class": "environment",
             "inputVisible": false,
@@ -1210,7 +1210,7 @@
             ],
             "tags": [
                 "Bretta",
-                "WASTES"
+                "Wastes"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -1227,7 +1227,7 @@
             ],
             "tags": [
                 "Nailsmith",
-                "CROSSROADS"
+                "Crossroads"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -1244,7 +1244,7 @@
             ],
             "tags": [
                 "Vengeful Spirit",
-                "SHAMAN TEMPLE"
+                "Shaman Temple"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -1261,7 +1261,7 @@
             ],
             "tags": [
                 "Cornifer",
-                "WASTES"
+                "Wastes"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -1277,7 +1277,7 @@
                 "dark"
             ],
             "tags": [
-                "WATERWAYS"
+                "Waterways"
             ],
             "class": "environment",
             "inputVisible": false,
@@ -1294,7 +1294,7 @@
             ],
             "tags": [
                 "Quirrel",
-                "CITY"
+                "City"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -1310,7 +1310,7 @@
                 "ruins"
             ],
             "tags": [
-                "GREEN PATH"
+                "Green Path"
             ],
             "class": "environment",
             "inputVisible": false,
@@ -1326,7 +1326,7 @@
                 "mushrooms"
             ],
             "tags": [
-                "WASTES"
+                "Wastes"
             ],
             "class": "environment",
             "inputVisible": false,
@@ -1343,7 +1343,7 @@
             ],
             "tags": [
                 "Hornet",
-                "OUTSKIRTS"
+                "Outskirts"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -1360,7 +1360,7 @@
             ],
             "tags": [
                 "Vengeful Spirit",
-                "SHAMAN TEMPLE"
+                "Shaman Temple"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -1377,7 +1377,7 @@
             ],
             "tags": [
                 "Quirrel",
-                "GREEN PATH"
+                "Green Path"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -1394,7 +1394,7 @@
             ],
             "tags": [
                 "Cloth",
-                "WASTES"
+                "Wastes"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -1411,7 +1411,7 @@
             ],
             "tags": [
                 "Zote",
-                "TOWN"
+                "Town"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -1428,7 +1428,7 @@
             ],
             "tags": [
                 "Zote",
-                "CITY"
+                "City"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -1445,7 +1445,7 @@
             ],
             "tags": [
                 "Stag",
-                "CROSSROADS"
+                "Crossroads"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -1460,7 +1460,7 @@
             ],
             "tags": [
                 "Queen",
-                "ROYAL GARDENS"
+                "Royal Gardens"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -1477,7 +1477,7 @@
             ],
             "tags": [
                 "Quirrel",
-                "MINES"
+                "Mines"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -1493,7 +1493,7 @@
                 "protective"
             ],
             "tags": [
-                "ROYAL GARDENS"
+                "Royal Gardens"
             ],
             "class": "environment",
             "inputVisible": false,
@@ -1510,7 +1510,7 @@
             ],
             "tags": [
                 "Sly",
-                "CROSSROADS"
+                "Crossroads"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -1527,7 +1527,7 @@
             ],
             "tags": [
                 "Relic Dealer",
-                "CITY"
+                "City"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -1543,7 +1543,7 @@
                 "underground"
             ],
             "tags": [
-                "WATERWAYS",
+                "Waterways",
                 "Honour"
             ],
             "class": "environment",
@@ -1561,7 +1561,7 @@
             ],
             "tags": [
                 "Charm Slug",
-                "CROSSROADS"
+                "Crossroads"
             ],
             "class": "artifact",
             "inputVisible": false,
@@ -1577,7 +1577,7 @@
                 "darkness"
             ],
             "tags": [
-                "CROSSROADS"
+                "Crossroads"
             ],
             "class": "artifact",
             "inputVisible": false,
@@ -1594,7 +1594,7 @@
             ],
             "tags": [
                 "Bretta",
-                "CROSSROADS"
+                "Crossroads"
             ],
             "class": "text",
             "inputVisible": false,
@@ -1611,7 +1611,7 @@
             ],
             "tags": [
                 "Dream Moth",
-                "RESTING GROUNDS"
+                "Resting Grounds"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -1628,7 +1628,7 @@
             ],
             "tags": [
                 "Quirrel",
-                "MINES"
+                "Mines"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -1644,7 +1644,7 @@
                 "creatures"
             ],
             "tags": [
-                "GREEN PATH"
+                "Green Path"
             ],
             "class": "environment",
             "inputVisible": false,
@@ -1661,7 +1661,7 @@
             ],
             "tags": [
                 "Quirrel",
-                "WASTES"
+                "Wastes"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -1678,7 +1678,7 @@
             ],
             "tags": [
                 "Quirrel",
-                "MINES"
+                "Mines"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -1694,7 +1694,7 @@
                 "wishes"
             ],
             "tags": [
-                "CROSSROADS"
+                "Crossroads"
             ],
             "class": "text",
             "inputVisible": false,
@@ -1711,7 +1711,7 @@
             ],
             "tags": [
                 "Nailsmith",
-                "CROSSROADS"
+                "Crossroads"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -1723,7 +1723,7 @@
             "name": "",
             "keywords": [],
             "tags": [
-                "CROSSROADS"
+                "Crossroads"
             ],
             "class": "artifact",
             "inputVisible": false,
@@ -1740,7 +1740,7 @@
             ],
             "tags": [
                 "Quirrel",
-                "MINES"
+                "Mines"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -1757,7 +1757,7 @@
             ],
             "tags": [
                 "Bretta",
-                "WASTES"
+                "Wastes"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -1774,7 +1774,7 @@
             ],
             "tags": [
                 "Zote",
-                "TOWN"
+                "Town"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -1790,7 +1790,7 @@
                 "stranger"
             ],
             "tags": [
-                "ROYAL GARDENS"
+                "Royal Gardens"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -1807,7 +1807,7 @@
             ],
             "tags": [
                 "Relic Dealer",
-                "CITY"
+                "City"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -1824,7 +1824,7 @@
             ],
             "tags": [
                 "Elderbug",
-                "TOWN"
+                "Town"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -1842,7 +1842,7 @@
             "tags": [
                 "Elderbug",
                 "Bretta",
-                "TOWN"
+                "Town"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -1859,7 +1859,7 @@
             ],
             "tags": [
                 "Quirrel",
-                "CROSSROADS"
+                "Crossroads"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -1876,7 +1876,7 @@
             ],
             "tags": [
                 "Quirrel",
-                "CITY"
+                "City"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -1893,7 +1893,7 @@
             ],
             "tags": [
                 "Myla",
-                "CROSSROADS"
+                "Crossroads"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -1910,7 +1910,7 @@
             ],
             "tags": [
                 "Hornet",
-                "OUTSKIRTS"
+                "Outskirts"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -1927,7 +1927,7 @@
             ],
             "tags": [
                 "Zote",
-                "GREEN PATH"
+                "Green Path"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -1944,7 +1944,7 @@
             ],
             "tags": [
                 "Stag",
-                "ROYAL GARDENS"
+                "Royal Gardens"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -1961,7 +1961,7 @@
             ],
             "tags": [
                 "Elderbug",
-                "TOWN"
+                "Town"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -1977,7 +1977,7 @@
                 "light"
             ],
             "tags": [
-                "RESTING GROUNDS"
+                "Resting Grounds"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -1994,7 +1994,7 @@
             ],
             "tags": [
                 "Elderbug",
-                "TOWN"
+                "Town"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -2011,7 +2011,7 @@
             ],
             "tags": [
                 "Giraffe",
-                "QUEENS STATION"
+                "Queens Station"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -2027,7 +2027,7 @@
                 "undone"
             ],
             "tags": [
-                "RESTING GROUNDS"
+                "Resting Grounds"
             ],
             "class": "text",
             "inputVisible": false,
@@ -2043,7 +2043,7 @@
                 "kingdom"
             ],
             "tags": [
-                "RESTING GROUNDS"
+                "Resting Grounds"
             ],
             "class": "text",
             "inputVisible": false,
@@ -2059,7 +2059,7 @@
                 "swim"
             ],
             "tags": [
-                "WATERWAYS"
+                "Waterways"
             ],
             "class": "artifact",
             "inputVisible": false,
@@ -2076,7 +2076,7 @@
             ],
             "tags": [
                 "Stag",
-                "CITY"
+                "City"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -2093,7 +2093,7 @@
             ],
             "tags": [
                 "Bretta",
-                "WASTES"
+                "Wastes"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -2109,7 +2109,7 @@
                 "swim"
             ],
             "tags": [
-                "WATERWAYS"
+                "Waterways"
             ],
             "class": "artifact",
             "inputVisible": false,
@@ -2126,7 +2126,7 @@
             ],
             "tags": [
                 "Cornifer",
-                "OUTSKIRTS"
+                "Outskirts"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -2143,7 +2143,7 @@
             ],
             "tags": [
                 "Elderbug",
-                "TOWN"
+                "Town"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -2160,7 +2160,7 @@
             ],
             "tags": [
                 "Dream Moth",
-                "RESTING GROUNDS"
+                "Resting Grounds"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -2177,7 +2177,7 @@
             ],
             "tags": [
                 "Stag",
-                "CROSSROADS"
+                "Crossroads"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -2194,7 +2194,7 @@
             ],
             "tags": [
                 "Elderbug",
-                "TOWN"
+                "Town"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -2211,7 +2211,7 @@
             ],
             "tags": [
                 "Queen",
-                "ROYAL GARDENS"
+                "Royal Gardens"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -2228,7 +2228,7 @@
             ],
             "tags": [
                 "Cornifer",
-                "ABYSS"
+                "Abyss"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -2244,7 +2244,7 @@
                 "King"
             ],
             "tags": [
-                "RESTING GROUNDS"
+                "Resting Grounds"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -2260,7 +2260,7 @@
                 "rare"
             ],
             "tags": [
-                "CROSSROADS"
+                "Crossroads"
             ],
             "class": "artifact",
             "inputVisible": false,
@@ -2277,7 +2277,7 @@
             ],
             "tags": [
                 "Quirrel",
-                "CROSSROADS"
+                "Crossroads"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -2293,7 +2293,7 @@
                 "sleep"
             ],
             "tags": [
-                "RESTING GROUNDS"
+                "Resting Grounds"
             ],
             "class": "text",
             "inputVisible": false,
@@ -2310,7 +2310,7 @@
             ],
             "tags": [
                 "Dream Moth",
-                "RESTING GROUNDS"
+                "Resting Grounds"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -2327,7 +2327,7 @@
             ],
             "tags": [
                 "Hornet",
-                "ABYSS"
+                "Abyss"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -2343,7 +2343,7 @@
                 "waterfalls"
             ],
             "tags": [
-                "CROSSROADS"
+                "Crossroads"
             ],
             "class": "environment",
             "inputVisible": false,
@@ -2359,7 +2359,7 @@
                 "Xero"
             ],
             "tags": [
-                "RESTING GROUNDS"
+                "Resting Grounds"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -2376,7 +2376,7 @@
             ],
             "tags": [
                 "Leg Eater",
-                "WASTES"
+                "Wastes"
             ],
             "class": "artifact",
             "inputVisible": false,
@@ -2393,7 +2393,7 @@
             ],
             "tags": [
                 "Quirrel",
-                "CROSSROADS"
+                "Crossroads"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -2410,7 +2410,7 @@
             ],
             "tags": [
                 "Quirrel",
-                "GREEN PATH"
+                "Green Path"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -2427,7 +2427,7 @@
             ],
             "tags": [
                 "Cloth",
-                "WASTES"
+                "Wastes"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -2444,7 +2444,7 @@
             ],
             "tags": [
                 "Vengeful Spirit",
-                "SHAMAN TEMPLE"
+                "Shaman Temple"
             ],
             "class": "environment",
             "inputVisible": false,
@@ -2460,7 +2460,7 @@
                 "item sale"
             ],
             "tags": [
-                "CROSSROADS"
+                "Crossroads"
             ],
             "class": "artifact",
             "inputVisible": false,
@@ -2477,7 +2477,7 @@
             ],
             "tags": [
                 "Charm Slug",
-                "CROSSROADS"
+                "Crossroads"
             ],
             "class": "artifact",
             "inputVisible": false,
@@ -2494,7 +2494,7 @@
             ],
             "tags": [
                 "Hornet",
-                "GREEN PATH"
+                "Green Path"
             ],
             "class": "dialogue,",
             "inputVisible": false,
@@ -2510,7 +2510,7 @@
                 "creature"
             ],
             "tags": [
-                "GREEN PATH"
+                "Green Path"
             ],
             "class": "environment",
             "inputVisible": false,
@@ -2527,7 +2527,7 @@
             ],
             "tags": [
                 "Bretta",
-                "CROSSROADS"
+                "Crossroads"
             ],
             "class": "text",
             "inputVisible": false,
@@ -2545,7 +2545,7 @@
             "tags": [
                 "Elderbug",
                 "Bretta",
-                "TOWN"
+                "Town"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -2562,7 +2562,7 @@
             ],
             "tags": [
                 "Quirrel",
-                "CROSSROADS"
+                "Crossroads"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -2579,7 +2579,7 @@
             ],
             "tags": [
                 "Sly",
-                "CROSSROADS"
+                "Crossroads"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -2595,7 +2595,7 @@
                 "dear"
             ],
             "tags": [
-                "ABYSS"
+                "Abyss"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -2611,7 +2611,7 @@
                 "sour odour"
             ],
             "tags": [
-                "CROSSROADS"
+                "Crossroads"
             ],
             "class": "artifact",
             "inputVisible": false,
@@ -2628,7 +2628,7 @@
             ],
             "tags": [
                 "Hornet",
-                "ABYSS"
+                "Abyss"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -2645,7 +2645,7 @@
             ],
             "tags": [
                 "Bretta",
-                "CROSSROADS"
+                "Crossroads"
             ],
             "class": "text",
             "inputVisible": false,
@@ -2662,7 +2662,7 @@
             ],
             "tags": [
                 "Quirrel",
-                "WASTES"
+                "Wastes"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -2679,7 +2679,7 @@
             ],
             "tags": [
                 "Iselda",
-                "TOWN"
+                "Town"
             ],
             "class": "artifact",
             "inputVisible": false,
@@ -2696,7 +2696,7 @@
             ],
             "tags": [
                 "Cornifer",
-                "FOG CANYON"
+                "Fog Canyon"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -2713,7 +2713,7 @@
             ],
             "tags": [
                 "Elderbug",
-                "TOWN"
+                "Town"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -2730,7 +2730,7 @@
             ],
             "tags": [
                 "Hornet",
-                "GREEN PATH"
+                "Green Path"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -2747,7 +2747,7 @@
             ],
             "tags": [
                 "Hornet",
-                "OUTSKIRTS"
+                "Outskirts"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -2763,7 +2763,7 @@
                 "platforms"
             ],
             "tags": [
-                "FOG CANYON"
+                "Fog Canyon"
             ],
             "class": "environment",
             "inputVisible": false,
@@ -2780,7 +2780,7 @@
             ],
             "tags": [
                 "Sly",
-                "CROSSROADS"
+                "Crossroads"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -2797,7 +2797,7 @@
             ],
             "tags": [
                 "Queen",
-                "ROYAL GARDENS"
+                "Royal Gardens"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -2813,7 +2813,7 @@
                 "glowing"
             ],
             "tags": [
-                "CROSSROADS"
+                "Crossroads"
             ],
             "class": "environment",
             "inputVisible": false,
@@ -2846,7 +2846,7 @@
             ],
             "tags": [
                 "Quirrel",
-                "MINES"
+                "Mines"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -2863,7 +2863,7 @@
             ],
             "tags": [
                 "Zote",
-                "TOWN"
+                "Town"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -2879,7 +2879,7 @@
                 "illuminated"
             ],
             "tags": [
-                "RESTING GROUNDS"
+                "Resting Grounds"
             ],
             "class": "environment",
             "inputVisible": false,
@@ -2896,7 +2896,7 @@
             ],
             "tags": [
                 "Myla",
-                "CROSSROADS"
+                "Crossroads"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -2914,7 +2914,7 @@
             "tags": [
                 "Elderbug",
                 "Bretta",
-                "TOWN"
+                "Town"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -2931,7 +2931,7 @@
             ],
             "tags": [
                 "Tiso",
-                "TOWN"
+                "Town"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -2948,7 +2948,7 @@
             ],
             "tags": [
                 "Leg Eater",
-                "WASTES"
+                "Wastes"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -2965,7 +2965,7 @@
             ],
             "tags": [
                 "Emilitia",
-                "CITY"
+                "City"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -2983,7 +2983,7 @@
             "tags": [
                 "Elderbug",
                 "Bretta",
-                "TOWN"
+                "Town"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -3000,7 +3000,7 @@
             ],
             "tags": [
                 "Stag",
-                "TOWN"
+                "Town"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -3017,7 +3017,7 @@
             ],
             "tags": [
                 "Myla",
-                "CROSSROADS"
+                "Crossroads"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -3034,7 +3034,7 @@
             ],
             "tags": [
                 "Sly",
-                "CROSSROADS"
+                "Crossroads"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -3051,7 +3051,7 @@
             ],
             "tags": [
                 "Zote",
-                "CITY"
+                "City"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -3067,7 +3067,7 @@
                 "gothic hall"
             ],
             "tags": [
-                "ROYAL GARDENS",
+                "Royal Gardens",
                 "Execution"
             ],
             "class": "environment",
@@ -3085,7 +3085,7 @@
             ],
             "tags": [
                 "Dream Moth",
-                "RESTING GROUNDS"
+                "Resting Grounds"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -3102,7 +3102,7 @@
             ],
             "tags": [
                 "Tiso",
-                "TOWN"
+                "Town"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -3118,7 +3118,7 @@
                 "water"
             ],
             "tags": [
-                "CROSSROADS"
+                "Crossroads"
             ],
             "class": "environment",
             "inputVisible": false,
@@ -3134,7 +3134,7 @@
                 "room"
             ],
             "tags": [
-                "CROSSROADS"
+                "Crossroads"
             ],
             "class": "environment",
             "inputVisible": false,
@@ -3150,7 +3150,7 @@
                 "stranger"
             ],
             "tags": [
-                "ROYAL GARDENS"
+                "Royal Gardens"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -3166,7 +3166,7 @@
                 "Unn"
             ],
             "tags": [
-                "GREEN PATH"
+                "Green Path"
             ],
             "class": "text",
             "inputVisible": false,
@@ -3182,7 +3182,7 @@
                 "design"
             ],
             "tags": [
-                "ROYAL GARDENS"
+                "Royal Gardens"
             ],
             "class": "environment",
             "inputVisible": false,
@@ -3198,7 +3198,7 @@
                 "ethereal"
             ],
             "tags": [
-                "ABYSS",
+                "Abyss",
                 "Release"
             ],
             "class": "artifact",
@@ -3216,7 +3216,7 @@
             ],
             "tags": [
                 "Elderbug",
-                "TOWN"
+                "Town"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -3233,7 +3233,7 @@
             ],
             "tags": [
                 "Sly",
-                "CROSSROADS"
+                "Crossroads"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -3250,7 +3250,7 @@
             ],
             "tags": [
                 "Iselda",
-                "TOWN"
+                "Town"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -3283,7 +3283,7 @@
             ],
             "tags": [
                 "Charm Slug",
-                "CROSSROADS"
+                "Crossroads"
             ],
             "class": "artifact",
             "inputVisible": false,
@@ -3300,7 +3300,7 @@
             ],
             "tags": [
                 "Iselda",
-                "TOWN"
+                "Town"
             ],
             "class": "artifact",
             "inputVisible": false,
@@ -3317,7 +3317,7 @@
             ],
             "tags": [
                 "Zote",
-                "TOWN"
+                "Town"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -3333,7 +3333,7 @@
                 "City Crest"
             ],
             "tags": [
-                "WASTES"
+                "Wastes"
             ],
             "class": "text",
             "inputVisible": false,
@@ -3349,7 +3349,7 @@
                 "glowing"
             ],
             "tags": [
-                "WASTES"
+                "Wastes"
             ],
             "class": "environment",
             "inputVisible": false,
@@ -3366,7 +3366,7 @@
             ],
             "tags": [
                 "Elderbug",
-                "TOWN"
+                "Town"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -3383,7 +3383,7 @@
             ],
             "tags": [
                 "Tiso",
-                "TOWN"
+                "Town"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -3400,7 +3400,7 @@
             ],
             "tags": [
                 "Elderbug",
-                "TOWN"
+                "Town"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -3416,7 +3416,7 @@
                 "blue-hued"
             ],
             "tags": [
-                "CITY"
+                "City"
             ],
             "class": "environment",
             "inputVisible": false,
@@ -3432,7 +3432,7 @@
                 "Spells"
             ],
             "tags": [
-                "ROYAL GARDENS"
+                "Royal Gardens"
             ],
             "class": "artifact",
             "inputVisible": false,
@@ -3449,7 +3449,7 @@
             ],
             "tags": [
                 "Hornet",
-                "ABYSS"
+                "Abyss"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -3466,7 +3466,7 @@
             ],
             "tags": [
                 "Bretta",
-                "WASTES"
+                "Wastes"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -3482,7 +3482,7 @@
                 "excitement"
             ],
             "tags": [
-                "ROYAL GARDENS"
+                "Royal Gardens"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -3499,7 +3499,7 @@
             ],
             "tags": [
                 "Cornifer",
-                "CITY"
+                "City"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -3516,7 +3516,7 @@
             ],
             "tags": [
                 "Zote",
-                "GREEN PATH"
+                "Green Path"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -3533,7 +3533,7 @@
             ],
             "tags": [
                 "Quirrel",
-                "QUEENS STATION"
+                "Queens Station"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -3550,7 +3550,7 @@
             ],
             "tags": [
                 "Relic Dealer",
-                "CITY"
+                "City"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -3567,7 +3567,7 @@
             ],
             "tags": [
                 "Zote",
-                "TOWN"
+                "Town"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -3584,7 +3584,7 @@
             ],
             "tags": [
                 "Stag",
-                "RESTING GROUNDS"
+                "Resting Grounds"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -3601,7 +3601,7 @@
             ],
             "tags": [
                 "Hornet",
-                "GREEN PATH"
+                "Green Path"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -3618,7 +3618,7 @@
             ],
             "tags": [
                 "Hornet",
-                "ABYSS"
+                "Abyss"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -3635,7 +3635,7 @@
             ],
             "tags": [
                 "Hornet",
-                "CITY"
+                "City"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -3651,7 +3651,7 @@
                 "architecture"
             ],
             "tags": [
-                "DREAM WORLD"
+                "Dream World"
             ],
             "class": "environment",
             "inputVisible": false,
@@ -3668,7 +3668,7 @@
             ],
             "tags": [
                 "Charm Slug",
-                "CROSSROADS"
+                "Crossroads"
             ],
             "class": "artifact",
             "inputVisible": false,
@@ -3684,7 +3684,7 @@
                 "teach to fly"
             ],
             "tags": [
-                "ROYAL GARDENS"
+                "Royal Gardens"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -3701,7 +3701,7 @@
             ],
             "tags": [
                 "Emilitia",
-                "CITY"
+                "City"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -3718,7 +3718,7 @@
             ],
             "tags": [
                 "Quirrel",
-                "CROSSROADS"
+                "Crossroads"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -3735,7 +3735,7 @@
             ],
             "tags": [
                 "Emilitia",
-                "CITY"
+                "City"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -3751,7 +3751,7 @@
                 "serene"
             ],
             "tags": [
-                "ROYAL GARDENS"
+                "Royal Gardens"
             ],
             "class": "environment",
             "inputVisible": false,
@@ -3768,7 +3768,7 @@
             ],
             "tags": [
                 "Hornet",
-                "OUTSKIRTS"
+                "Outskirts"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -3785,7 +3785,7 @@
             ],
             "tags": [
                 "Dream Moth",
-                "RESTING GROUNDS"
+                "Resting Grounds"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -3802,7 +3802,7 @@
             ],
             "tags": [
                 "Cornifer",
-                "GREEN PATH"
+                "Green Path"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -3818,7 +3818,7 @@
                 "combat"
             ],
             "tags": [
-                "WATERWAYS"
+                "Waterways"
             ],
             "class": "environment",
             "inputVisible": false,
@@ -3835,7 +3835,7 @@
             ],
             "tags": [
                 "Hornet",
-                "OUTSKIRTS"
+                "Outskirts"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -3852,7 +3852,7 @@
             ],
             "tags": [
                 "Elderbug",
-                "TOWN"
+                "Town"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -3869,7 +3869,7 @@
             ],
             "tags": [
                 "Stag",
-                "RESTING GROUNDS"
+                "Resting Grounds"
             ],
             "class": "environment",
             "inputVisible": false,
@@ -3899,7 +3899,7 @@
                 "lanterns"
             ],
             "tags": [
-                "SHAMAN TEMPLE"
+                "Shaman Temple"
             ],
             "class": "environment",
             "inputVisible": false,
@@ -3915,7 +3915,7 @@
                 "undone"
             ],
             "tags": [
-                "RESTING GROUNDS"
+                "Resting Grounds"
             ],
             "class": "text",
             "inputVisible": false,
@@ -3931,7 +3931,7 @@
                 "glory"
             ],
             "tags": [
-                "WASTES"
+                "Wastes"
             ],
             "class": "text",
             "inputVisible": false,
@@ -3948,7 +3948,7 @@
             ],
             "tags": [
                 "Cornifer",
-                "WASTES"
+                "Wastes"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -3965,7 +3965,7 @@
             ],
             "tags": [
                 "Charm Slug",
-                "CROSSROADS"
+                "Crossroads"
             ],
             "class": "artifact",
             "inputVisible": false,
@@ -3981,7 +3981,7 @@
                 "dialogue"
             ],
             "tags": [
-                "OUTSKIRTS",
+                "Outskirts",
                 "Proof of Resolve"
             ],
             "class": "dialogue",
@@ -3999,7 +3999,7 @@
             ],
             "tags": [
                 "Leg Eater",
-                "WASTES"
+                "Wastes"
             ],
             "class": "artifact",
             "inputVisible": false,
@@ -4015,7 +4015,7 @@
                 "no exit."
             ],
             "tags": [
-                "CITY"
+                "City"
             ],
             "class": "environment",
             "inputVisible": false,
@@ -4032,7 +4032,7 @@
             ],
             "tags": [
                 "Bretta",
-                "WASTES"
+                "Wastes"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -4049,7 +4049,7 @@
             ],
             "tags": [
                 "Relic Dealer",
-                "CITY"
+                "City"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -4066,7 +4066,7 @@
             ],
             "tags": [
                 "Queen",
-                "ROYAL GARDENS"
+                "Royal Gardens"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -4083,7 +4083,7 @@
             ],
             "tags": [
                 "Iselda",
-                "TOWN"
+                "Town"
             ],
             "class": "artifact",
             "inputVisible": false,
@@ -4100,7 +4100,7 @@
             ],
             "tags": [
                 "Stag",
-                "ABYSS"
+                "Abyss"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -4117,7 +4117,7 @@
             ],
             "tags": [
                 "Emilitia",
-                "CITY"
+                "City"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -4134,7 +4134,7 @@
             ],
             "tags": [
                 "Zote",
-                "CITY"
+                "City"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -4151,7 +4151,7 @@
             ],
             "tags": [
                 "Elderbug",
-                "TOWN"
+                "Town"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -4167,7 +4167,7 @@
                 "characters"
             ],
             "tags": [
-                "CITY"
+                "City"
             ],
             "class": "environment",
             "inputVisible": false,
@@ -4184,7 +4184,7 @@
             ],
             "tags": [
                 "Stag",
-                "QUEENS STATION"
+                "Queens Station"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -4201,7 +4201,7 @@
             ],
             "tags": [
                 "Charm Slug",
-                "CROSSROADS"
+                "Crossroads"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -4218,7 +4218,7 @@
             ],
             "tags": [
                 "Iselda",
-                "TOWN"
+                "Town"
             ],
             "class": "artifact",
             "inputVisible": false,
@@ -4235,7 +4235,7 @@
             ],
             "tags": [
                 "Quirrel",
-                "QUEENS STATION"
+                "Queens Station"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -4252,7 +4252,7 @@
             ],
             "tags": [
                 "Dream Moth",
-                "RESTING GROUNDS"
+                "Resting Grounds"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -4268,7 +4268,7 @@
                 "Unn"
             ],
             "tags": [
-                "GREEN PATH"
+                "Green Path"
             ],
             "class": "text",
             "inputVisible": false,
@@ -4284,7 +4284,7 @@
                 "turn against"
             ],
             "tags": [
-                "RESTING GROUNDS"
+                "Resting Grounds"
             ],
             "class": "text",
             "inputVisible": false,
@@ -4301,7 +4301,7 @@
             ],
             "tags": [
                 "Quirrel",
-                "CITY"
+                "City"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -4318,7 +4318,7 @@
             ],
             "tags": [
                 "Quirrel",
-                "CROSSROADS"
+                "Crossroads"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -4335,7 +4335,7 @@
             ],
             "tags": [
                 "Stag",
-                "CROSSROADS"
+                "Crossroads"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -4352,7 +4352,7 @@
             ],
             "tags": [
                 "Elderbug",
-                "TOWN"
+                "Town"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -4369,7 +4369,7 @@
             ],
             "tags": [
                 "Sly",
-                "CROSSROADS"
+                "Crossroads"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -4385,7 +4385,7 @@
                 "doorways"
             ],
             "tags": [
-                "MINES"
+                "Mines"
             ],
             "class": "environment",
             "inputVisible": false,
@@ -4402,7 +4402,7 @@
             ],
             "tags": [
                 "Tiso",
-                "CROSSROADS"
+                "Crossroads"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -4419,7 +4419,7 @@
             ],
             "tags": [
                 "Queen",
-                "ROYAL GARDENS"
+                "Royal Gardens"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -4436,7 +4436,7 @@
             ],
             "tags": [
                 "Queen",
-                "ROYAL GARDENS"
+                "Royal Gardens"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -4453,7 +4453,7 @@
             ],
             "tags": [
                 "Queen",
-                "ROYAL GARDENS"
+                "Royal Gardens"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -4469,7 +4469,7 @@
                 "serene."
             ],
             "tags": [
-                "MINES"
+                "Mines"
             ],
             "class": "environment",
             "inputVisible": false,
@@ -4485,7 +4485,7 @@
                 "wherever"
             ],
             "tags": [
-                "RESTING GROUNDS"
+                "Resting Grounds"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -4501,7 +4501,7 @@
                 "glowing"
             ],
             "tags": [
-                "WASTES"
+                "Wastes"
             ],
             "class": "environment",
             "inputVisible": false,
@@ -4534,7 +4534,7 @@
             ],
             "tags": [
                 "Elderbug",
-                "TOWN"
+                "Town"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -4550,7 +4550,7 @@
                 "lit"
             ],
             "tags": [
-                "CROSSROADS"
+                "Crossroads"
             ],
             "class": "environment",
             "inputVisible": false,
@@ -4566,7 +4566,7 @@
                 "pedestal"
             ],
             "tags": [
-                "ABYSS"
+                "Abyss"
             ],
             "class": "environment",
             "inputVisible": false,
@@ -4583,7 +4583,7 @@
             ],
             "tags": [
                 "Vengeful Spirit",
-                "SHAMAN TEMPLE"
+                "Shaman Temple"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -4600,7 +4600,7 @@
             ],
             "tags": [
                 "Quirrel",
-                "CITY"
+                "City"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -4617,7 +4617,7 @@
             ],
             "tags": [
                 "Elderbug",
-                "TOWN"
+                "Town"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -4634,7 +4634,7 @@
             ],
             "tags": [
                 "Cloth",
-                "WASTES"
+                "Wastes"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -4651,7 +4651,7 @@
             ],
             "tags": [
                 "Cornifer",
-                "MINES"
+                "Mines"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -4668,7 +4668,7 @@
             ],
             "tags": [
                 "Hunter",
-                "GREEN PATH"
+                "Green Path"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -4685,7 +4685,7 @@
             ],
             "tags": [
                 "Iselda",
-                "TOWN"
+                "Town"
             ],
             "class": "artifact",
             "inputVisible": false,
@@ -4700,7 +4700,7 @@
                 "cannot"
             ],
             "tags": [
-                "ABYSS"
+                "Abyss"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -4717,7 +4717,7 @@
             ],
             "tags": [
                 "Leg Eater",
-                "WASTES"
+                "Wastes"
             ],
             "class": "artifact",
             "inputVisible": false,
@@ -4734,7 +4734,7 @@
             ],
             "tags": [
                 "Stag",
-                "CITY"
+                "City"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -4751,7 +4751,7 @@
             ],
             "tags": [
                 "Elderbug",
-                "TOWN"
+                "Town"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -4768,7 +4768,7 @@
             ],
             "tags": [
                 "Queen",
-                "ROYAL GARDENS"
+                "Royal Gardens"
             ],
             "class": "artifact",
             "inputVisible": false,
@@ -4784,7 +4784,7 @@
                 "eerie"
             ],
             "tags": [
-                "ABYSS"
+                "Abyss"
             ],
             "class": "environment",
             "inputVisible": false,
@@ -4801,7 +4801,7 @@
             ],
             "tags": [
                 "Quirrel",
-                "GREEN PATH"
+                "Green Path"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -4818,7 +4818,7 @@
             ],
             "tags": [
                 "Nailsmith",
-                "CROSSROADS"
+                "Crossroads"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -4835,7 +4835,7 @@
             ],
             "tags": [
                 "Elderbug",
-                "TOWN"
+                "Town"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -4851,7 +4851,7 @@
                 "focus"
             ],
             "tags": [
-                "SOUL SOCIETY"
+                "Soul Society"
             ],
             "class": "text",
             "inputVisible": false,
@@ -4868,7 +4868,7 @@
             ],
             "tags": [
                 "Hornet",
-                "ABYSS"
+                "Abyss"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -4885,7 +4885,7 @@
             ],
             "tags": [
                 "Elderbug",
-                "TOWN"
+                "Town"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -4902,7 +4902,7 @@
             ],
             "tags": [
                 "Elderbug",
-                "TOWN"
+                "Town"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -4919,7 +4919,7 @@
             ],
             "tags": [
                 "Bretta",
-                "WASTES"
+                "Wastes"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -4936,7 +4936,7 @@
             ],
             "tags": [
                 "Cornifer",
-                "GREEN PATH"
+                "Green Path"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -4953,7 +4953,7 @@
             ],
             "tags": [
                 "Quirrel",
-                "WASTES"
+                "Wastes"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -4969,7 +4969,7 @@
                 "slash"
             ],
             "tags": [
-                "DREAM WORLD"
+                "Dream World"
             ],
             "class": "artifact",
             "inputVisible": false,
@@ -4985,7 +4985,7 @@
                 "dark"
             ],
             "tags": [
-                "OUTSKIRTS"
+                "Outskirts"
             ],
             "class": "environment",
             "inputVisible": false,
@@ -5002,7 +5002,7 @@
             ],
             "tags": [
                 "Queen",
-                "ROYAL GARDENS"
+                "Royal Gardens"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -5019,7 +5019,7 @@
             ],
             "tags": [
                 "Stag",
-                "ROYAL GARDENS"
+                "Royal Gardens"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -5035,7 +5035,7 @@
                 "entrance"
             ],
             "tags": [
-                "TOWN"
+                "Town"
             ],
             "class": "environment",
             "inputVisible": false,
@@ -5052,7 +5052,7 @@
             ],
             "tags": [
                 "Stag",
-                "QUEENS STATION"
+                "Queens Station"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -5069,7 +5069,7 @@
             ],
             "tags": [
                 "Queen",
-                "ROYAL GARDENS"
+                "Royal Gardens"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -5085,7 +5085,7 @@
                 "refuse"
             ],
             "tags": [
-                "ABYSS"
+                "Abyss"
             ],
             "class": "text",
             "inputVisible": false,
@@ -5102,7 +5102,7 @@
             ],
             "tags": [
                 "Cornifer",
-                "FOG CANYON"
+                "Fog Canyon"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -5118,7 +5118,7 @@
                 "weapon"
             ],
             "tags": [
-                "RESTING GROUNDS"
+                "Resting Grounds"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -5134,7 +5134,7 @@
             ],
             "tags": [
                 "Quirrel",
-                "MINES"
+                "Mines"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -5151,7 +5151,7 @@
             ],
             "tags": [
                 "Quirrel",
-                "QUEENS STATION"
+                "Queens Station"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -5168,7 +5168,7 @@
             ],
             "tags": [
                 "Elderbug",
-                "TOWN"
+                "Town"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -5185,7 +5185,7 @@
             ],
             "tags": [
                 "Quirrel",
-                "CITY"
+                "City"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -5201,7 +5201,7 @@
                 "beware"
             ],
             "tags": [
-                "GREEN PATH"
+                "Green Path"
             ],
             "class": "text",
             "inputVisible": false,
@@ -5218,7 +5218,7 @@
             ],
             "tags": [
                 "Cornifer",
-                "WASTES"
+                "Wastes"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -5235,7 +5235,7 @@
             ],
             "tags": [
                 "Dream Moth",
-                "RESTING GROUNDS"
+                "Resting Grounds"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -5251,7 +5251,7 @@
                 "kingdom"
             ],
             "tags": [
-                "KINGS PASS"
+                "Kings Pass"
             ],
             "class": "text",
             "inputVisible": false,
@@ -5268,7 +5268,7 @@
             ],
             "tags": [
                 "Quirrel",
-                "QUEENS STATION"
+                "Queens Station"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -5285,7 +5285,7 @@
             ],
             "tags": [
                 "Charm Slug",
-                "CROSSROADS"
+                "Crossroads"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -5302,7 +5302,7 @@
             ],
             "tags": [
                 "Banker",
-                "FOG CANYON"
+                "Fog Canyon"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -5319,7 +5319,7 @@
             ],
             "tags": [
                 "Cornifer",
-                "CROSSROADS"
+                "Crossroads"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -5336,7 +5336,7 @@
             ],
             "tags": [
                 "Zote",
-                "GREEN PATH"
+                "Green Path"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -5353,7 +5353,7 @@
             ],
             "tags": [
                 "Stag",
-                "CITY"
+                "City"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -5369,7 +5369,7 @@
                 "dreamy"
             ],
             "tags": [
-                "DREAM WORLD"
+                "Dream World"
             ],
             "class": "environment",
             "inputVisible": false,
@@ -5386,7 +5386,7 @@
             ],
             "tags": [
                 "Elderbug",
-                "TOWN"
+                "Town"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -5403,7 +5403,7 @@
             ],
             "tags": [
                 "Elderbug",
-                "TOWN"
+                "Town"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -5419,7 +5419,7 @@
                 "recover"
             ],
             "tags": [
-                "CROSSROADS"
+                "Crossroads"
             ],
             "class": "artifact",
             "inputVisible": false,
@@ -5436,7 +5436,7 @@
             ],
             "tags": [
                 "Cornifer",
-                "WATERWAYS"
+                "Waterways"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -5453,7 +5453,7 @@
             ],
             "tags": [
                 "Giraffe",
-                "QUEENS STATION"
+                "Queens Station"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -5471,7 +5471,7 @@
             ],
             "tags": [
                 "Relic Dealer",
-                "CITY"
+                "City"
             ],
             "class": "artifact",
             "inputVisible": false,
@@ -5488,7 +5488,7 @@
             ],
             "tags": [
                 "Giraffe",
-                "QUEENS STATION"
+                "Queens Station"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -5504,7 +5504,7 @@
                 "dimly-lit"
             ],
             "tags": [
-                "CROSSROADS"
+                "Crossroads"
             ],
             "class": "environment",
             "inputVisible": false,
@@ -5521,7 +5521,7 @@
             ],
             "tags": [
                 "Queen",
-                "ROYAL GARDENS"
+                "Royal Gardens"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -5538,7 +5538,7 @@
             ],
             "tags": [
                 "Quirrel",
-                "CROSSROADS"
+                "Crossroads"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -5555,7 +5555,7 @@
             ],
             "tags": [
                 "Hornet",
-                "CITY"
+                "City"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -5572,7 +5572,7 @@
             ],
             "tags": [
                 "Quirrel",
-                "MINES"
+                "Mines"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -5588,7 +5588,7 @@
                 "doomed"
             ],
             "tags": [
-                "RESTING GROUNDS"
+                "Resting Grounds"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -5605,7 +5605,7 @@
             ],
             "tags": [
                 "Quirrel",
-                "GREEN PATH"
+                "Green Path"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -5622,7 +5622,7 @@
             ],
             "tags": [
                 "Vengeful Spirit",
-                "SHAMAN TEMPLE"
+                "Shaman Temple"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -5638,7 +5638,7 @@
                 "caterpillar"
             ],
             "tags": [
-                "CROSSROADS"
+                "Crossroads"
             ],
             "class": "environment",
             "inputVisible": false,
@@ -5656,7 +5656,7 @@
             "tags": [
                 "Elderbug",
                 "Bretta",
-                "TOWN"
+                "Town"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -5674,7 +5674,7 @@
             "tags": [
                 "Elderbug",
                 "Bretta",
-                "TOWN"
+                "Town"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -5691,7 +5691,7 @@
             ],
             "tags": [
                 "Zote",
-                "TOWN"
+                "Town"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -5708,7 +5708,7 @@
             ],
             "tags": [
                 "Cornifer",
-                "GREEN PATH"
+                "Green Path"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -5725,7 +5725,7 @@
             ],
             "tags": [
                 "Hornet",
-                "CITY"
+                "City"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -5742,7 +5742,7 @@
             ],
             "tags": [
                 "Hornet",
-                "CITY"
+                "City"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -5759,7 +5759,7 @@
             ],
             "tags": [
                 "Quirrel",
-                "CROSSROADS"
+                "Crossroads"
             ],
             "class": "environment",
             "inputVisible": false,
@@ -5776,7 +5776,7 @@
             ],
             "tags": [
                 "Queen",
-                "ROYAL GARDENS"
+                "Royal Gardens"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -5793,7 +5793,7 @@
             ],
             "tags": [
                 "Hornet",
-                "OUTSKIRTS"
+                "Outskirts"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -5810,7 +5810,7 @@
             ],
             "tags": [
                 "Quirrel",
-                "CROSSROADS"
+                "Crossroads"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -5826,7 +5826,7 @@
                 "platform."
             ],
             "tags": [
-                "GREEN PATH"
+                "Green Path"
             ],
             "class": "environment",
             "inputVisible": false,
@@ -5843,7 +5843,7 @@
             ],
             "tags": [
                 "Dream Moth",
-                "RESTING GROUNDS"
+                "Resting Grounds"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -5860,7 +5860,7 @@
             ],
             "tags": [
                 "Quirrel",
-                "GREEN PATH"
+                "Green Path"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -5877,7 +5877,7 @@
             ],
             "tags": [
                 "Cornifer",
-                "OUTSKIRTS"
+                "Outskirts"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -5894,7 +5894,7 @@
             ],
             "tags": [
                 "Stag",
-                "TOWN"
+                "Town"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -5911,7 +5911,7 @@
             ],
             "tags": [
                 "Cornifer",
-                "CROSSROADS"
+                "Crossroads"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -5927,7 +5927,7 @@
                 "vessel"
             ],
             "tags": [
-                "ABYSS"
+                "Abyss"
             ],
             "class": "environment",
             "inputVisible": false,
@@ -5943,7 +5943,7 @@
                 "doom"
             ],
             "tags": [
-                "RESTING GROUNDS"
+                "Resting Grounds"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -5960,7 +5960,7 @@
             ],
             "tags": [
                 "Elderbug",
-                "TOWN"
+                "Town"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -5977,7 +5977,7 @@
             ],
             "tags": [
                 "Iselda",
-                "TOWN"
+                "Town"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -5994,7 +5994,7 @@
             ],
             "tags": [
                 "Relic Dealer",
-                "CITY"
+                "City"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -6011,7 +6011,7 @@
             ],
             "tags": [
                 "Cornifer",
-                "CROSSROADS"
+                "Crossroads"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -6028,7 +6028,7 @@
             ],
             "tags": [
                 "Cornifer",
-                "WATERWAYS"
+                "Waterways"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -6044,7 +6044,7 @@
                 "Hallownest"
             ],
             "tags": [
-                "RESTING GROUNDS"
+                "Resting Grounds"
             ],
             "class": "text",
             "inputVisible": false,
@@ -6061,7 +6061,7 @@
             ],
             "tags": [
                 "Tiso",
-                "TOWN"
+                "Town"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -6077,7 +6077,7 @@
                 "rest"
             ],
             "tags": [
-                "RESTING GROUNDS"
+                "Resting Grounds"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -6093,7 +6093,7 @@
                 "ancient designs"
             ],
             "tags": [
-                "MINES"
+                "Mines"
             ],
             "class": "environment",
             "inputVisible": false,
@@ -6109,7 +6109,7 @@
                 "stranger"
             ],
             "tags": [
-                "ROYAL GARDENS"
+                "Royal Gardens"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -6126,7 +6126,7 @@
             ],
             "tags": [
                 "Cornifer",
-                "CITY"
+                "City"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -6143,7 +6143,7 @@
             ],
             "tags": [
                 "Banker",
-                "FOG CANYON"
+                "Fog Canyon"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -6159,7 +6159,7 @@
                 "enemies"
             ],
             "tags": [
-                "ABYSS"
+                "Abyss"
             ],
             "class": "artifact",
             "inputVisible": false,
@@ -6176,7 +6176,7 @@
             ],
             "tags": [
                 "Hornet",
-                "ABYSS"
+                "Abyss"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -6193,7 +6193,7 @@
             ],
             "tags": [
                 "Quirrel",
-                "CROSSROADS"
+                "Crossroads"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -6210,7 +6210,7 @@
             ],
             "tags": [
                 "Cornifer",
-                "CROSSROADS"
+                "Crossroads"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -6227,7 +6227,7 @@
             ],
             "tags": [
                 "Sly",
-                "CROSSROADS"
+                "Crossroads"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -6243,7 +6243,7 @@
                 "Hallownest"
             ],
             "tags": [
-                "CITY"
+                "City"
             ],
             "class": "text",
             "inputVisible": false,
@@ -6259,7 +6259,7 @@
                 "architecture"
             ],
             "tags": [
-                "CROSSROADS"
+                "Crossroads"
             ],
             "class": "environment",
             "inputVisible": false,
@@ -6276,7 +6276,7 @@
             ],
             "tags": [
                 "Vengeful Spirit",
-                "SHAMAN TEMPLE"
+                "Shaman Temple"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -6293,7 +6293,7 @@
             ],
             "tags": [
                 "Elderbug",
-                "TOWN"
+                "Town"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -6310,7 +6310,7 @@
             ],
             "tags": [
                 "Hunter",
-                "GREEN PATH"
+                "Green Path"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -6326,7 +6326,7 @@
                 "terrible"
             ],
             "tags": [
-                "DREAM WORLD"
+                "Dream World"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -6343,7 +6343,7 @@
             ],
             "tags": [
                 "Cornifer",
-                "ROYAL GARDENS"
+                "Royal Gardens"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -6360,7 +6360,7 @@
             ],
             "tags": [
                 "Nailsmith",
-                "CROSSROADS"
+                "Crossroads"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -6377,7 +6377,7 @@
             ],
             "tags": [
                 "Cloth",
-                "WASTES"
+                "Wastes"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -6394,7 +6394,7 @@
             ],
             "tags": [
                 "Zote",
-                "GREEN PATH"
+                "Green Path"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -6411,7 +6411,7 @@
             ],
             "tags": [
                 "Quirrel",
-                "WASTES"
+                "Wastes"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -6428,7 +6428,7 @@
             ],
             "tags": [
                 "Quirrel",
-                "CROSSROADS"
+                "Crossroads"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -6445,7 +6445,7 @@
             ],
             "tags": [
                 "Sly",
-                "CROSSROADS"
+                "Crossroads"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -6462,7 +6462,7 @@
             ],
             "tags": [
                 "Dream Moth",
-                "RESTING GROUNDS"
+                "Resting Grounds"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -6479,7 +6479,7 @@
             ],
             "tags": [
                 "Stag",
-                "QUEENS STATION"
+                "Queens Station"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -6496,7 +6496,7 @@
             ],
             "tags": [
                 "Quirrel",
-                "CROSSROADS"
+                "Crossroads"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -6513,7 +6513,7 @@
             ],
             "tags": [
                 "Quirrel",
-                "CROSSROADS"
+                "Crossroads"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -6530,7 +6530,7 @@
             ],
             "tags": [
                 "Relic Dealer",
-                "CITY"
+                "City"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -6547,7 +6547,7 @@
             ],
             "tags": [
                 "Sly",
-                "CROSSROADS"
+                "Crossroads"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -6564,7 +6564,7 @@
             ],
             "tags": [
                 "Relic Dealer",
-                "CITY"
+                "City"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -6581,7 +6581,7 @@
             ],
             "tags": [
                 "Charm Slug",
-                "CROSSROADS"
+                "Crossroads"
             ],
             "class": "artifact",
             "inputVisible": false,
@@ -6598,7 +6598,7 @@
             ],
             "tags": [
                 "Cornifer",
-                "ROYAL GARDENS"
+                "Royal Gardens"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -6614,7 +6614,7 @@
                 "platforms"
             ],
             "tags": [
-                "WATERWAYS"
+                "Waterways"
             ],
             "class": "environment",
             "inputVisible": false,
@@ -6630,7 +6630,7 @@
                 "armoured figure"
             ],
             "tags": [
-                "SHAMAN TEMPLE"
+                "Shaman Temple"
             ],
             "class": "environment",
             "inputVisible": false,
@@ -6647,7 +6647,7 @@
             ],
             "tags": [
                 "Charm Slug",
-                "CROSSROADS"
+                "Crossroads"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -6663,7 +6663,7 @@
                 "sleep"
             ],
             "tags": [
-                "ROYAL GARDENS"
+                "Royal Gardens"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -6680,7 +6680,7 @@
             ],
             "tags": [
                 "Zote",
-                "TOWN"
+                "Town"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -6698,7 +6698,7 @@
             "tags": [
                 "Elderbug",
                 "Bretta",
-                "TOWN"
+                "Town"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -6715,7 +6715,7 @@
             ],
             "tags": [
                 "Bretta",
-                "WASTES"
+                "Wastes"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -6731,7 +6731,7 @@
                 "accept"
             ],
             "tags": [
-                "DREAM WORLD"
+                "Dream World"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -6763,7 +6763,7 @@
                 "eerie"
             ],
             "tags": [
-                "ABYSS"
+                "Abyss"
             ],
             "class": "environment",
             "inputVisible": false,
@@ -6781,7 +6781,7 @@
             "tags": [
                 "Elderbug",
                 "Bretta",
-                "TOWN"
+                "Town"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -6797,7 +6797,7 @@
                 "mysterious"
             ],
             "tags": [
-                "CROSSROADS"
+                "Crossroads"
             ],
             "class": "environment",
             "inputVisible": false,
@@ -6815,7 +6815,7 @@
             "tags": [
                 "Elderbug",
                 "Bretta",
-                "TOWN"
+                "Town"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -6831,7 +6831,7 @@
                 "cloak."
             ],
             "tags": [
-                "GREEN PATH"
+                "Green Path"
             ],
             "class": "artifact",
             "inputVisible": false,
@@ -6848,7 +6848,7 @@
             ],
             "tags": [
                 "Elderbug",
-                "TOWN"
+                "Town"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -6864,7 +6864,7 @@
                 "darkness"
             ],
             "tags": [
-                "ABYSS"
+                "Abyss"
             ],
             "class": "environment",
             "inputVisible": false,
@@ -6880,7 +6880,7 @@
                 "gothic"
             ],
             "tags": [
-                "CROSSROADS",
+                "Crossroads",
                 "Falsehood"
             ],
             "class": "environment",
@@ -6898,7 +6898,7 @@
             ],
             "tags": [
                 "Stag",
-                "QUEENS STATION"
+                "Queens Station"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -6916,7 +6916,7 @@
             "tags": [
                 "Elderbug",
                 "Bretta",
-                "TOWN"
+                "Town"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -6933,7 +6933,7 @@
             ],
             "tags": [
                 "Cornifer",
-                "FOG CANYON"
+                "Fog Canyon"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -6950,7 +6950,7 @@
             ],
             "tags": [
                 "Dream Moth",
-                "RESTING GROUNDS"
+                "Resting Grounds"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -6967,7 +6967,7 @@
             ],
             "tags": [
                 "Stag",
-                "GREEN PATH"
+                "Green Path"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -6984,7 +6984,7 @@
             ],
             "tags": [
                 "Quirrel",
-                "GREEN PATH"
+                "Green Path"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -7001,7 +7001,7 @@
             ],
             "tags": [
                 "Bretta",
-                "WASTES"
+                "Wastes"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -7018,7 +7018,7 @@
             ],
             "tags": [
                 "Quirrel",
-                "GREEN PATH"
+                "Green Path"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -7034,7 +7034,7 @@
                 "dimly lit"
             ],
             "tags": [
-                "WASTES",
+                "Wastes",
                 "Respect"
             ],
             "class": "environment",
@@ -7052,7 +7052,7 @@
             ],
             "tags": [
                 "Stag",
-                "CROSSROADS"
+                "Crossroads"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -7069,7 +7069,7 @@
             ],
             "tags": [
                 "Quirrel",
-                "GREEN PATH"
+                "Green Path"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -7085,7 +7085,7 @@
                 "dialogue"
             ],
             "tags": [
-                "ROYAL GARDENS"
+                "Royal Gardens"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -7102,7 +7102,7 @@
             ],
             "tags": [
                 "Myla",
-                "CROSSROADS"
+                "Crossroads"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -7119,7 +7119,7 @@
             ],
             "tags": [
                 "Quirrel",
-                "MINES"
+                "Mines"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -7135,7 +7135,7 @@
                 "soul"
             ],
             "tags": [
-                "DREAM WORLD"
+                "Dream World"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -7151,7 +7151,7 @@
                 "environment"
             ],
             "tags": [
-                "WASTES"
+                "Wastes"
             ],
             "class": "environment",
             "inputVisible": false,
@@ -7167,7 +7167,7 @@
                 "location"
             ],
             "tags": [
-                "GREEN PATH"
+                "Green Path"
             ],
             "class": "artifact",
             "inputVisible": false,
@@ -7183,7 +7183,7 @@
                 "dense vegetation"
             ],
             "tags": [
-                "ROYAL GARDENS"
+                "Royal Gardens"
             ],
             "class": "environment",
             "inputVisible": false,
@@ -7200,7 +7200,7 @@
             ],
             "tags": [
                 "Quirrel",
-                "QUEENS STATION"
+                "Queens Station"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -7217,7 +7217,7 @@
             ],
             "tags": [
                 "Dream Moth",
-                "RESTING GROUNDS"
+                "Resting Grounds"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -7234,7 +7234,7 @@
             ],
             "tags": [
                 "Nailsmith",
-                "CROSSROADS"
+                "Crossroads"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -7251,7 +7251,7 @@
             ],
             "tags": [
                 "Hornet",
-                "CITY"
+                "City"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -7268,7 +7268,7 @@
             ],
             "tags": [
                 "Banker",
-                "FOG CANYON"
+                "Fog Canyon"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -7285,7 +7285,7 @@
             ],
             "tags": [
                 "Elderbug",
-                "TOWN"
+                "Town"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -7302,7 +7302,7 @@
             ],
             "tags": [
                 "Tiso",
-                "CROSSROADS"
+                "Crossroads"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -7319,7 +7319,7 @@
             ],
             "tags": [
                 "Dream Moth",
-                "RESTING GROUNDS"
+                "Resting Grounds"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -7336,7 +7336,7 @@
             ],
             "tags": [
                 "Quirrel",
-                "QUEENS STATION"
+                "Queens Station"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -7353,7 +7353,7 @@
             ],
             "tags": [
                 "Elderbug",
-                "TOWN"
+                "Town"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -7370,7 +7370,7 @@
             ],
             "tags": [
                 "Quirrel",
-                "QUEENS STATION"
+                "Queens Station"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -7387,7 +7387,7 @@
             ],
             "tags": [
                 "Myla",
-                "CROSSROADS"
+                "Crossroads"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -7403,7 +7403,7 @@
                 "Hollow Knight"
             ],
             "tags": [
-                "FOG CANYON"
+                "Fog Canyon"
             ],
             "class": "text",
             "inputVisible": false,
@@ -7420,7 +7420,7 @@
             ],
             "tags": [
                 "Stag",
-                "CROSSROADS"
+                "Crossroads"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -7436,7 +7436,7 @@
                 "glowing object."
             ],
             "tags": [
-                "KINGS PASS"
+                "Kings Pass"
             ],
             "class": "environment",
             "inputVisible": false,
@@ -7452,7 +7452,7 @@
                 "heal"
             ],
             "tags": [
-                "KINGS PASS"
+                "Kings Pass"
             ],
             "class": "text",
             "inputVisible": false,
@@ -7468,7 +7468,7 @@
                 "encounter"
             ],
             "tags": [
-                "CITY",
+                "City",
                 "Illumination"
             ],
             "class": "environment",
@@ -7486,7 +7486,7 @@
             ],
             "tags": [
                 "Dream Moth",
-                "RESTING GROUNDS"
+                "Resting Grounds"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -7502,7 +7502,7 @@
                 "SOUL"
             ],
             "tags": [
-                "MINES"
+                "Mines"
             ],
             "class": "artifact",
             "inputVisible": false,
@@ -7519,7 +7519,7 @@
             ],
             "tags": [
                 "Emilitia",
-                "CITY"
+                "City"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -7535,7 +7535,7 @@
                 "dark"
             ],
             "tags": [
-                "MINES"
+                "Mines"
             ],
             "class": "environment",
             "inputVisible": false,
@@ -7552,7 +7552,7 @@
             ],
             "tags": [
                 "Elderbug",
-                "TOWN"
+                "Town"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -7568,7 +7568,7 @@
                 "gates open"
             ],
             "tags": [
-                "OUTSKIRTS"
+                "Outskirts"
             ],
             "class": "text",
             "inputVisible": false,
@@ -7585,7 +7585,7 @@
             ],
             "tags": [
                 "Hunter",
-                "GREEN PATH"
+                "Green Path"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -7602,7 +7602,7 @@
             ],
             "tags": [
                 "Cornifer",
-                "CITY"
+                "City"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -7619,7 +7619,7 @@
             ],
             "tags": [
                 "Banker",
-                "FOG CANYON"
+                "Fog Canyon"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -7635,7 +7635,7 @@
                 "taken"
             ],
             "tags": [
-                "GREEN PATH"
+                "Green Path"
             ],
             "class": "artifact",
             "inputVisible": false,
@@ -7652,7 +7652,7 @@
             ],
             "tags": [
                 "Vengeful Spirit",
-                "SHAMAN TEMPLE"
+                "Shaman Temple"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -7668,7 +7668,7 @@
                 "glory"
             ],
             "tags": [
-                "WASTES"
+                "Wastes"
             ],
             "class": "text",
             "inputVisible": false,
@@ -7684,7 +7684,7 @@
                 "skulls"
             ],
             "tags": [
-                "MINES"
+                "Mines"
             ],
             "class": "environment",
             "inputVisible": false,
@@ -7701,7 +7701,7 @@
             ],
             "tags": [
                 "Queen",
-                "ROYAL GARDENS"
+                "Royal Gardens"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -7718,7 +7718,7 @@
             ],
             "tags": [
                 "Cornifer",
-                "GREEN PATH"
+                "Green Path"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -7735,7 +7735,7 @@
             ],
             "tags": [
                 "Giraffe",
-                "QUEENS STATION"
+                "Queens Station"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -7752,7 +7752,7 @@
             ],
             "tags": [
                 "Elderbug",
-                "TOWN"
+                "Town"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -7768,7 +7768,7 @@
                 "obey laws"
             ],
             "tags": [
-                "KINGS PASS"
+                "Kings Pass"
             ],
             "class": "text",
             "inputVisible": false,
@@ -7785,7 +7785,7 @@
             ],
             "tags": [
                 "Cornifer",
-                "GREEN PATH"
+                "Green Path"
             ],
             "class": "environment",
             "inputVisible": false,
@@ -7802,7 +7802,7 @@
             ],
             "tags": [
                 "Emilitia",
-                "CITY"
+                "City"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -7818,7 +7818,7 @@
                 "vegetation"
             ],
             "tags": [
-                "GREEN PATH"
+                "Green Path"
             ],
             "class": "environment",
             "inputVisible": false,
@@ -7834,7 +7834,7 @@
                 "no longer"
             ],
             "tags": [
-                "ABYSS"
+                "Abyss"
             ],
             "class": "text",
             "inputVisible": false,
@@ -7850,7 +7850,7 @@
                 "jellyfish"
             ],
             "tags": [
-                "FOG CANYON"
+                "Fog Canyon"
             ],
             "class": "environment",
             "inputVisible": false,
@@ -7867,7 +7867,7 @@
             ],
             "tags": [
                 "Relic Dealer",
-                "CITY"
+                "City"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -7884,7 +7884,7 @@
             ],
             "tags": [
                 "Queen",
-                "ROYAL GARDENS"
+                "Royal Gardens"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -7901,7 +7901,7 @@
             ],
             "tags": [
                 "Elderbug",
-                "TOWN"
+                "Town"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -7919,7 +7919,7 @@
             "tags": [
                 "Elderbug",
                 "Bretta",
-                "TOWN"
+                "Town"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -7936,7 +7936,7 @@
             ],
             "tags": [
                 "Queen",
-                "ROYAL GARDENS"
+                "Royal Gardens"
             ],
             "class": "environment",
             "inputVisible": false,
@@ -7953,7 +7953,7 @@
             ],
             "tags": [
                 "Stag",
-                "CITY"
+                "City"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -7969,7 +7969,7 @@
                 "sea"
             ],
             "tags": [
-                "ABYSS"
+                "Abyss"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -7986,7 +7986,7 @@
             ],
             "tags": [
                 "Myla",
-                "CROSSROADS"
+                "Crossroads"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -8003,7 +8003,7 @@
             ],
             "tags": [
                 "Queen",
-                "ROYAL GARDENS"
+                "Royal Gardens"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -8019,7 +8019,7 @@
                 "dialogue"
             ],
             "tags": [
-                "ROYAL GARDENS"
+                "Royal Gardens"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -8036,7 +8036,7 @@
             ],
             "tags": [
                 "Cornifer",
-                "ROYAL GARDENS"
+                "Royal Gardens"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -8053,7 +8053,7 @@
             ],
             "tags": [
                 "Cornifer",
-                "GREEN PATH"
+                "Green Path"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -8069,7 +8069,7 @@
                 "must"
             ],
             "tags": [
-                "RESTING GROUNDS"
+                "Resting Grounds"
             ],
             "class": "text",
             "inputVisible": false,
@@ -8085,7 +8085,7 @@
                 "cavern"
             ],
             "tags": [
-                "WASTES"
+                "Wastes"
             ],
             "class": "environment",
             "inputVisible": false,
@@ -8102,7 +8102,7 @@
             ],
             "tags": [
                 "Queen",
-                "ROYAL GARDENS"
+                "Royal Gardens"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -8119,7 +8119,7 @@
             ],
             "tags": [
                 "Quirrel",
-                "CROSSROADS"
+                "Crossroads"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -8136,7 +8136,7 @@
             ],
             "tags": [
                 "Quirrel",
-                "CITY"
+                "City"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -8153,7 +8153,7 @@
             ],
             "tags": [
                 "Quirrel",
-                "WASTES"
+                "Wastes"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -8170,7 +8170,7 @@
             ],
             "tags": [
                 "Quirrel",
-                "CITY"
+                "City"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -8187,7 +8187,7 @@
             ],
             "tags": [
                 "Queen",
-                "ROYAL GARDENS"
+                "Royal Gardens"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -8203,7 +8203,7 @@
                 "defeated"
             ],
             "tags": [
-                "CROSSROADS"
+                "Crossroads"
             ],
             "class": "environment",
             "inputVisible": false,
@@ -8220,7 +8220,7 @@
             ],
             "tags": [
                 "Relic Dealer",
-                "CITY"
+                "City"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -8237,7 +8237,7 @@
             ],
             "tags": [
                 "Vengeful Spirit",
-                "SHAMAN TEMPLE"
+                "Shaman Temple"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -8254,7 +8254,7 @@
             ],
             "tags": [
                 "Nailsmith",
-                "CROSSROADS"
+                "Crossroads"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -8271,7 +8271,7 @@
             ],
             "tags": [
                 "Zote",
-                "CITY"
+                "City"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -8288,7 +8288,7 @@
             ],
             "tags": [
                 "Relic Dealer",
-                "CITY"
+                "City"
             ],
             "class": "dialogue",
             "inputVisible": false,
@@ -8304,7 +8304,7 @@
                 "shamans"
             ],
             "tags": [
-                "GREEN PATH"
+                "Green Path"
             ],
             "class": "artifact",
             "inputVisible": false,
@@ -8318,12 +8318,12 @@
             ],
             "tags": [
                 "Quirrel",
-                "CROSSROADS",
-                "GREEN PATH",
-                "WASTES",
-                "CITY",
-                "MINES",
-                "QUEENS STATION"
+                "Crossroads",
+                "Green Path",
+                "Wastes",
+                "City",
+                "Mines",
+                "Queens Station"
             ],
             "class": "npc",
             "inputVisible": false,
@@ -8337,7 +8337,7 @@
             ],
             "tags": [
                 "Relic Dealer",
-                "CITY"
+                "City"
             ],
             "class": "npc",
             "inputVisible": false,
@@ -8351,7 +8351,7 @@
             ],
             "tags": [
                 "Iselda",
-                "TOWN"
+                "Town"
             ],
             "class": "npc",
             "inputVisible": false,
@@ -8365,12 +8365,12 @@
             ],
             "tags": [
                 "Cornifer",
-                "CROSSROADS",
-                "GREEN PATH",
-                "MINES",
-                "ROYAL GARDENS",
-                "WATERWAYS",
-                "CITY"
+                "Crossroads",
+                "Green Path",
+                "Mines",
+                "Royal Gardens",
+                "Waterways",
+                "City"
             ],
             "class": "npc",
             "inputVisible": false,
@@ -8384,8 +8384,8 @@
             ],
             "tags": [
                 "Zote",
-                "CITY",
-                "GREEN PATH"
+                "City",
+                "Green Path"
             ],
             "class": "npc",
             "inputVisible": false,
@@ -8399,7 +8399,7 @@
             ],
             "tags": [
                 "Banker",
-                "FOG CANYON"
+                "Fog Canyon"
             ],
             "class": "npc",
             "inputVisible": false,
@@ -8413,7 +8413,7 @@
             ],
             "tags": [
                 "Dream Moth",
-                "RESTING GROUNDS"
+                "Resting Grounds"
             ],
             "class": "npc",
             "inputVisible": false,
@@ -8427,7 +8427,7 @@
             ],
             "tags": [
                 "Nailsmith",
-                "CITY"
+                "City"
             ],
             "class": "npc",
             "inputVisible": false,
@@ -8441,12 +8441,12 @@
             ],
             "tags": [
                 "Stag",
-                "CITY",
-                "ABYSS",
-                "CROSSROADS",
-                "ROYAL GARDENS",
-                "TOWN",
-                "QUEENS STATION",
+                "City",
+                "Abyss",
+                "Crossroads",
+                "Royal Gardens",
+                "Town",
+                "Queens Station",
                 "Connection"
             ],
             "class": "npc",
@@ -8461,7 +8461,7 @@
             ],
             "tags": [
                 "Sly",
-                "CROSSROADS"
+                "Crossroads"
             ],
             "class": "npc",
             "inputVisible": false,
@@ -8475,7 +8475,7 @@
             ],
             "tags": [
                 "Leg Eater",
-                "WASTES"
+                "Wastes"
             ],
             "class": "npc",
             "inputVisible": false,
@@ -8489,7 +8489,7 @@
             ],
             "tags": [
                 "Queen",
-                "ROYAL GARDENS"
+                "Royal Gardens"
             ],
             "class": "npc",
             "inputVisible": false,
@@ -8503,8 +8503,8 @@
             ],
             "tags": [
                 "Hornet",
-                "GREEN PATH",
-                "ABYSS",
+                "Green Path",
+                "Abyss",
                 "Test of Resolve",
                 "Proof of Resolve"
             ],
@@ -8520,7 +8520,7 @@
             ],
             "tags": [
                 "Bretta",
-                "WASTES"
+                "Wastes"
             ],
             "class": "npc",
             "inputVisible": false,
@@ -8534,7 +8534,7 @@
             ],
             "tags": [
                 "Cloth",
-                "WASTES"
+                "Wastes"
             ],
             "class": "npc",
             "inputVisible": false,
@@ -8548,7 +8548,7 @@
             ],
             "tags": [
                 "Charm Slug",
-                "CROSSROADS"
+                "Crossroads"
             ],
             "class": "npc",
             "inputVisible": false,
@@ -8562,7 +8562,7 @@
             ],
             "tags": [
                 "Myla",
-                "CROSSROADS"
+                "Crossroads"
             ],
             "class": "npc",
             "inputVisible": false,
@@ -8576,7 +8576,7 @@
             ],
             "tags": [
                 "Giraffe",
-                "QUEENS STATION"
+                "Queens Station"
             ],
             "class": "npc",
             "inputVisible": false,
@@ -8590,7 +8590,7 @@
             ],
             "tags": [
                 "Vengeful Spirit",
-                "SHAMAN TEMPLE"
+                "Shaman Temple"
             ],
             "class": "npc",
             "inputVisible": false,
@@ -8617,7 +8617,7 @@
             ],
             "tags": [
                 "Emilitia",
-                "CITY"
+                "City"
             ],
             "class": "npc",
             "inputVisible": false,
@@ -8631,7 +8631,7 @@
                 "opening"
             ],
             "tags": [
-                "KINGS PASS"
+                "Kings Pass"
             ],
             "class": "cut-scene",
             "inputVisible": false,
@@ -8647,7 +8647,7 @@
             ],
             "tags": [
                 "Hornet",
-                "OUTSKIRTS"
+                "Outskirts"
             ],
             "class": "cut-scene",
             "inputVisible": false,
@@ -8656,13 +8656,13 @@
         {
             "id": 502,
             "src": "knight_gif/Screenshot_20240827_163613164.gif",
-            "name": "The knight jumped down from the MINES to the RESTING GROUND.",
+            "name": "The knight jumped down from the Mines to the RESTING GROUND.",
             "keywords": [
                 "jump down", "mines", "resting grounds"
             ],
             "tags": [
-                "MINES",
-                "RESTING GROUNDS"
+                "Mines",
+                "Resting Grounds"
             ],
             "class": "environment",
             "inputVisible": false,
@@ -8677,7 +8677,7 @@
             ],
             "tags": [
                 "Hornet",
-                "CITY"
+                "City"
             ],
             "class": "cut-scene",
             "inputVisible": false,
