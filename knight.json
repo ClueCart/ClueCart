@@ -24,7 +24,6 @@
             "class": "location",
             "src": "knight_image/Screenshot_20240826_215032272.png"
         },
-
         {
             "id": 5,
             "name": "Relic Dealer",
@@ -55,7 +54,6 @@
             "class": "location",
             "src": "knight_image/Screenshot_20240826_234147812.png"
         },
-
         {
             "id": 10,
             "name": "Cornifer",
@@ -331,7 +329,12 @@
                 "Dream World"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -348,7 +351,12 @@
                 "Mines"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -365,7 +373,12 @@
                 "City"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -381,7 +394,12 @@
                 "Royal Gardens"
             ],
             "class": "environment",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -398,7 +416,12 @@
                 "Town"
             ],
             "class": "artifact",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -415,7 +438,12 @@
                 "Green Path"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -431,7 +459,12 @@
                 "Royal Gardens"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -447,7 +480,12 @@
                 "Resting Grounds"
             ],
             "class": "environment",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -464,7 +502,12 @@
                 "City"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -480,7 +523,12 @@
                 "Fog Canyon"
             ],
             "class": "environment",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -497,7 +545,12 @@
                 "Waterways"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -513,7 +566,12 @@
                 "Fog Canyon"
             ],
             "class": "environment",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -529,7 +587,12 @@
                 "Mines"
             ],
             "class": "environment",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -546,7 +609,12 @@
                 "Town"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -562,7 +630,12 @@
                 "Green Path"
             ],
             "class": "environment",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -579,13 +652,18 @@
                 "City"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
             "id": 17,
             "src": "knight_image/Screenshot_20240826_220746070.png",
-            "name": "For so long I’ve felt drawn here. So many tales full of wonders and horrors. No longer could I resist. I just had to see it for myself.",
+            "name": "For so long I\u2019ve felt drawn here. So many tales full of wonders and horrors. No longer could I resist. I just had to see it for myself.",
             "keywords": [
                 "drawn",
                 "wonders",
@@ -596,7 +674,12 @@
                 "Crossroads"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -612,7 +695,12 @@
                 "Resting Grounds"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -629,7 +717,12 @@
                 "Resting Grounds"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -646,7 +739,12 @@
                 "Mines"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -663,7 +761,12 @@
                 "Town"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -680,7 +783,12 @@
                 "Crossroads"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -697,7 +805,12 @@
                 "Crossroads"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -714,7 +827,12 @@
                 "City"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -730,7 +848,12 @@
                 "Green Path"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -746,7 +869,12 @@
                 "City"
             ],
             "class": "artifact",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -763,13 +891,18 @@
                 "Crossroads"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
             "id": 28,
             "src": "knight_image/Screenshot_20240827_164021419.png",
-            "name": "But that talisman you now wield, the Dream Nail… it can cut through the veil that separates the waking world from our dreams. Even the Dreamers themselves can not hide from such a weapon.",
+            "name": "But that talisman you now wield, the Dream Nail\u2026 it can cut through the veil that separates the waking world from our dreams. Even the Dreamers themselves can not hide from such a weapon.",
             "keywords": [
                 "Dream Nail",
                 "veil",
@@ -780,7 +913,12 @@
                 "Resting Grounds"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -797,7 +935,12 @@
                 "City"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -813,7 +956,12 @@
                 "Resting Grounds"
             ],
             "class": "environment",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -829,7 +977,12 @@
                 "Resting Grounds"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -846,7 +999,12 @@
                 "Crossroads"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -862,7 +1020,12 @@
                 "Fog Canyon"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -878,7 +1041,12 @@
                 "Shaman Temple"
             ],
             "class": "artifact",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -895,7 +1063,12 @@
                 "Town"
             ],
             "class": "artifact",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -911,7 +1084,12 @@
                 "Green Path"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -928,7 +1106,12 @@
                 "Wastes"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -945,7 +1128,12 @@
                 "Crossroads"
             ],
             "class": "environment",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -961,7 +1149,12 @@
                 "Wastes"
             ],
             "class": "artifact",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -978,7 +1171,12 @@
                 "City"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -995,7 +1193,12 @@
                 "Wastes"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -1012,7 +1215,12 @@
                 "Wastes"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -1029,7 +1237,12 @@
                 "Royal Gardens"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -1046,7 +1259,12 @@
                 "Abyss"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -1063,7 +1281,12 @@
                 "Abyss"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -1080,7 +1303,12 @@
                 "Abyss"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -1097,7 +1325,12 @@
                 "Green Path"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -1113,7 +1346,12 @@
                 "Mines"
             ],
             "class": "artifact",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -1130,7 +1368,12 @@
                 "Test of Resolve"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -1147,7 +1390,12 @@
                 "Crossroads"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -1164,7 +1412,12 @@
                 "Resting Grounds"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -1180,7 +1433,12 @@
                 "Crossroads"
             ],
             "class": "environment",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -1196,7 +1454,12 @@
                 "Royal Gardens"
             ],
             "class": "environment",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -1213,7 +1476,12 @@
                 "Wastes"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -1230,13 +1498,18 @@
                 "Crossroads"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
             "id": 56,
             "src": "knight_image/Screenshot_20240826_223031335.png",
-            "name": "Oho! There you are! I was watching over you while you slept, and must have slipped away myself. I woke up and found you’d disappeared! You are a surprising one, ohoho!",
+            "name": "Oho! There you are! I was watching over you while you slept, and must have slipped away myself. I woke up and found you\u2019d disappeared! You are a surprising one, ohoho!",
             "keywords": [
                 "watching",
                 "slept",
@@ -1247,7 +1520,12 @@
                 "Shaman Temple"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -1264,7 +1542,12 @@
                 "Wastes"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -1280,7 +1563,12 @@
                 "Waterways"
             ],
             "class": "environment",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -1297,7 +1585,12 @@
                 "City"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -1313,7 +1606,12 @@
                 "Green Path"
             ],
             "class": "environment",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -1329,7 +1627,12 @@
                 "Wastes"
             ],
             "class": "environment",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -1346,7 +1649,12 @@
                 "Outskirts"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -1363,7 +1671,12 @@
                 "Shaman Temple"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -1380,7 +1693,12 @@
                 "Green Path"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -1397,7 +1715,12 @@
                 "Wastes"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -1414,7 +1737,12 @@
                 "Town"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -1431,7 +1759,12 @@
                 "City"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -1448,7 +1781,12 @@
                 "Crossroads"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -1463,7 +1801,12 @@
                 "Royal Gardens"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -1480,7 +1823,12 @@
                 "Mines"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -1496,7 +1844,12 @@
                 "Royal Gardens"
             ],
             "class": "environment",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -1513,7 +1866,12 @@
                 "Crossroads"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -1530,7 +1888,12 @@
                 "City"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -1547,7 +1910,12 @@
                 "Honour"
             ],
             "class": "environment",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -1564,7 +1932,12 @@
                 "Crossroads"
             ],
             "class": "artifact",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -1580,7 +1953,12 @@
                 "Crossroads"
             ],
             "class": "artifact",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -1597,7 +1975,12 @@
                 "Crossroads"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -1614,7 +1997,12 @@
                 "Resting Grounds"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -1631,7 +2019,12 @@
                 "Mines"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -1647,7 +2040,12 @@
                 "Green Path"
             ],
             "class": "environment",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -1664,7 +2062,12 @@
                 "Wastes"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -1681,7 +2084,12 @@
                 "Mines"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -1697,7 +2105,12 @@
                 "Crossroads"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -1714,7 +2127,12 @@
                 "Crossroads"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -1726,7 +2144,12 @@
                 "Crossroads"
             ],
             "class": "artifact",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -1743,7 +2166,12 @@
                 "Mines"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -1760,7 +2188,12 @@
                 "Wastes"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -1777,7 +2210,12 @@
                 "Town"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -1793,7 +2231,12 @@
                 "Royal Gardens"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -1810,7 +2253,12 @@
                 "City"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -1827,7 +2275,12 @@
                 "Town"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -1845,7 +2298,12 @@
                 "Town"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -1862,7 +2320,12 @@
                 "Crossroads"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -1879,7 +2342,12 @@
                 "City"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -1896,7 +2364,12 @@
                 "Crossroads"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -1913,7 +2386,12 @@
                 "Outskirts"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -1930,7 +2408,12 @@
                 "Green Path"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -1947,7 +2430,12 @@
                 "Royal Gardens"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -1964,7 +2452,12 @@
                 "Town"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -1980,7 +2473,12 @@
                 "Resting Grounds"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -1997,7 +2495,12 @@
                 "Town"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -2014,7 +2517,12 @@
                 "Queens Station"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -2030,7 +2538,12 @@
                 "Resting Grounds"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -2046,7 +2559,12 @@
                 "Resting Grounds"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -2062,7 +2580,12 @@
                 "Waterways"
             ],
             "class": "artifact",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -2079,7 +2602,12 @@
                 "City"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -2096,7 +2624,12 @@
                 "Wastes"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -2112,7 +2645,12 @@
                 "Waterways"
             ],
             "class": "artifact",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -2129,7 +2667,12 @@
                 "Outskirts"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -2146,7 +2689,12 @@
                 "Town"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -2163,7 +2711,12 @@
                 "Resting Grounds"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -2180,7 +2733,12 @@
                 "Crossroads"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -2197,7 +2755,12 @@
                 "Town"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -2214,7 +2777,12 @@
                 "Royal Gardens"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -2231,7 +2799,12 @@
                 "Abyss"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -2247,7 +2820,12 @@
                 "Resting Grounds"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -2263,7 +2841,12 @@
                 "Crossroads"
             ],
             "class": "artifact",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -2280,7 +2863,12 @@
                 "Crossroads"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -2296,7 +2884,12 @@
                 "Resting Grounds"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -2313,13 +2906,18 @@
                 "Resting Grounds"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
             "id": 121,
             "src": "knight_image/Screenshot_20240827_215509919.png",
-            "name": "…It faced the void, and ascends unscathed… Could it unite such vast darkness?..",
+            "name": "\u2026It faced the void, and ascends unscathed\u2026 Could it unite such vast darkness?..",
             "keywords": [
                 "void",
                 "darkness",
@@ -2330,7 +2928,12 @@
                 "Abyss"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -2346,7 +2949,12 @@
                 "Crossroads"
             ],
             "class": "environment",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -2362,13 +2970,18 @@
                 "Resting Grounds"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
             "id": 124,
             "src": "knight_image/Screenshot_20240826_233029316.png",
-            "name": " Fragile Strength Notch Cost You’re weak, aren’t you? You should give me Geo. If you do, I’ll give you this charm I made. It will make you stronger. Your enemies, and everyone else, will fear you at last...",
+            "name": " Fragile Strength Notch Cost You\u2019re weak, aren\u2019t you? You should give me Geo. If you do, I\u2019ll give you this charm I made. It will make you stronger. Your enemies, and everyone else, will fear you at last...",
             "keywords": [
                 "Fragile Strength",
                 "charm",
@@ -2379,7 +2992,12 @@
                 "Wastes"
             ],
             "class": "artifact",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -2396,7 +3014,12 @@
                 "Crossroads"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -2413,7 +3036,12 @@
                 "Green Path"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -2430,7 +3058,12 @@
                 "Wastes"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -2447,7 +3080,12 @@
                 "Shaman Temple"
             ],
             "class": "environment",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -2463,7 +3101,12 @@
                 "Crossroads"
             ],
             "class": "artifact",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -2480,7 +3123,12 @@
                 "Crossroads"
             ],
             "class": "artifact",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -2497,7 +3145,12 @@
                 "Green Path"
             ],
             "class": "dialogue,",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -2513,7 +3166,12 @@
                 "Green Path"
             ],
             "class": "environment",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -2530,7 +3188,12 @@
                 "Crossroads"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -2548,7 +3211,12 @@
                 "Town"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -2565,7 +3233,12 @@
                 "Crossroads"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -2582,7 +3255,12 @@
                 "Crossroads"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -2598,7 +3276,12 @@
                 "Abyss"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -2614,7 +3297,12 @@
                 "Crossroads"
             ],
             "class": "artifact",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -2631,7 +3319,12 @@
                 "Abyss"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -2648,7 +3341,12 @@
                 "Crossroads"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -2665,7 +3363,12 @@
                 "Wastes"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -2682,7 +3385,12 @@
                 "Town"
             ],
             "class": "artifact",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -2699,7 +3407,12 @@
                 "Fog Canyon"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -2716,7 +3429,12 @@
                 "Town"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -2733,7 +3451,12 @@
                 "Green Path"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -2750,7 +3473,12 @@
                 "Outskirts"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -2766,7 +3494,12 @@
                 "Fog Canyon"
             ],
             "class": "environment",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -2783,7 +3516,12 @@
                 "Crossroads"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -2800,7 +3538,12 @@
                 "Royal Gardens"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -2816,7 +3559,12 @@
                 "Crossroads"
             ],
             "class": "environment",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -2832,7 +3580,12 @@
                 "NM Oro"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -2849,7 +3602,12 @@
                 "Mines"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -2866,7 +3624,12 @@
                 "Town"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -2882,7 +3645,12 @@
                 "Resting Grounds"
             ],
             "class": "environment",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -2899,7 +3667,12 @@
                 "Crossroads"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -2917,7 +3690,12 @@
                 "Town"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -2934,7 +3712,12 @@
                 "Town"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -2951,7 +3734,12 @@
                 "Wastes"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -2968,7 +3756,12 @@
                 "City"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -2986,7 +3779,12 @@
                 "Town"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -3003,13 +3801,18 @@
                 "Town"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
             "id": 162,
             "src": "knight_image/Screenshot_20240826_220517347.png",
-            "name": " Ohhh, bury the knight with her broken nail, bury the… p-priest… something about a crown…? I c-can't remember the rest of that one, ha ha ha! Maybe I'll just hum it.",
+            "name": " Ohhh, bury the knight with her broken nail, bury the\u2026 p-priest\u2026 something about a crown\u2026? I c-can't remember the rest of that one, ha ha ha! Maybe I'll just hum it.",
             "keywords": [
                 "knight",
                 "crown",
@@ -3020,7 +3823,12 @@
                 "Crossroads"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -3037,7 +3845,12 @@
                 "Crossroads"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -3054,7 +3867,12 @@
                 "City"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -3071,7 +3889,12 @@
                 "Execution"
             ],
             "class": "environment",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -3088,7 +3911,12 @@
                 "Resting Grounds"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -3105,7 +3933,12 @@
                 "Town"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -3121,7 +3954,12 @@
                 "Crossroads"
             ],
             "class": "environment",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -3137,7 +3975,12 @@
                 "Crossroads"
             ],
             "class": "environment",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -3153,7 +3996,12 @@
                 "Royal Gardens"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -3169,7 +4017,12 @@
                 "Green Path"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -3185,7 +4038,12 @@
                 "Royal Gardens"
             ],
             "class": "environment",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -3202,7 +4060,12 @@
                 "Release"
             ],
             "class": "artifact",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -3219,7 +4082,12 @@
                 "Town"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -3236,7 +4104,12 @@
                 "Crossroads"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -3253,7 +4126,12 @@
                 "Town"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -3269,7 +4147,12 @@
                 "NM Oro"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -3286,7 +4169,12 @@
                 "Crossroads"
             ],
             "class": "artifact",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -3303,7 +4191,12 @@
                 "Town"
             ],
             "class": "artifact",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -3320,7 +4213,12 @@
                 "Town"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -3336,7 +4234,12 @@
                 "Wastes"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -3352,13 +4255,18 @@
                 "Wastes"
             ],
             "class": "environment",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
             "id": 183,
             "src": "knight_image/Screenshot_20240826_223258006.png",
-            "name": "No competition. That’s the problem. It’s bad for the market. Not that he’s complaining.",
+            "name": "No competition. That\u2019s the problem. It\u2019s bad for the market. Not that he\u2019s complaining.",
             "keywords": [
                 "competition",
                 "market",
@@ -3369,7 +4277,12 @@
                 "Town"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -3386,7 +4299,12 @@
                 "Town"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -3403,7 +4321,12 @@
                 "Town"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -3419,7 +4342,12 @@
                 "City"
             ],
             "class": "environment",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -3435,7 +4363,12 @@
                 "Royal Gardens"
             ],
             "class": "artifact",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -3452,7 +4385,12 @@
                 "Abyss"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -3469,7 +4407,12 @@
                 "Wastes"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -3485,7 +4428,12 @@
                 "Royal Gardens"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -3502,7 +4450,12 @@
                 "City"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -3519,7 +4472,12 @@
                 "Green Path"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -3536,7 +4494,12 @@
                 "Queens Station"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -3553,7 +4516,12 @@
                 "City"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -3570,7 +4538,12 @@
                 "Town"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -3587,7 +4560,12 @@
                 "Resting Grounds"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -3604,7 +4582,12 @@
                 "Green Path"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -3621,7 +4604,12 @@
                 "Abyss"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -3638,7 +4626,12 @@
                 "City"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -3654,13 +4647,18 @@
                 "Dream World"
             ],
             "class": "environment",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
             "id": 201,
             "src": "knight_image/Screenshot_20240827_150229428.png",
-            "name": "Longnail That nail you wield is adorable! But do you sometimes feel it could be a little… longer? Ho! Ho ho ho! Go on, take this charm home with you. Suddenly, your enemies will be within reach…",
+            "name": "Longnail That nail you wield is adorable! But do you sometimes feel it could be a little\u2026 longer? Ho! Ho ho ho! Go on, take this charm home with you. Suddenly, your enemies will be within reach\u2026",
             "keywords": [
                 "Longnail",
                 "charm",
@@ -3671,7 +4669,12 @@
                 "Crossroads"
             ],
             "class": "artifact",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -3687,7 +4690,12 @@
                 "Royal Gardens"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -3704,7 +4712,12 @@
                 "City"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -3721,7 +4734,12 @@
                 "Crossroads"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -3738,7 +4756,12 @@
                 "City"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -3754,7 +4777,12 @@
                 "Royal Gardens"
             ],
             "class": "environment",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -3771,7 +4799,12 @@
                 "Outskirts"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -3788,7 +4821,12 @@
                 "Resting Grounds"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -3805,7 +4843,12 @@
                 "Green Path"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -3821,7 +4864,12 @@
                 "Waterways"
             ],
             "class": "environment",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -3838,7 +4886,12 @@
                 "Outskirts"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -3855,7 +4908,12 @@
                 "Town"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -3872,7 +4930,12 @@
                 "Resting Grounds"
             ],
             "class": "environment",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -3886,7 +4949,12 @@
             ],
             "tags": [],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -3902,7 +4970,12 @@
                 "Shaman Temple"
             ],
             "class": "environment",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -3918,7 +4991,12 @@
                 "Resting Grounds"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -3934,7 +5012,12 @@
                 "Wastes"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -3951,7 +5034,12 @@
                 "Wastes"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -3968,7 +5056,12 @@
                 "Crossroads"
             ],
             "class": "artifact",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -3985,7 +5078,12 @@
                 "Proof of Resolve"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -4002,7 +5100,12 @@
                 "Wastes"
             ],
             "class": "artifact",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -4018,7 +5121,12 @@
                 "City"
             ],
             "class": "environment",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -4035,7 +5143,12 @@
                 "Wastes"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -4052,7 +5165,12 @@
                 "City"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -4069,7 +5187,12 @@
                 "Royal Gardens"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -4086,7 +5209,12 @@
                 "Town"
             ],
             "class": "artifact",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -4103,7 +5231,12 @@
                 "Abyss"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -4120,13 +5253,18 @@
                 "City"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
             "id": 229,
             "src": "knight_image/Screenshot_20240827_145824741.png",
-            "name": "Curse this wretched city! Water and monsters constantly fall from above! It's no wonder this blasted kingdom fell to ruin…",
+            "name": "Curse this wretched city! Water and monsters constantly fall from above! It's no wonder this blasted kingdom fell to ruin\u2026",
             "keywords": [
                 "ruin",
                 "monsters",
@@ -4137,7 +5275,12 @@
                 "City"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -4154,7 +5297,12 @@
                 "Town"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -4170,7 +5318,12 @@
                 "City"
             ],
             "class": "environment",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -4187,7 +5340,12 @@
                 "Queens Station"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -4204,7 +5362,12 @@
                 "Crossroads"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -4221,7 +5384,12 @@
                 "Town"
             ],
             "class": "artifact",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -4238,7 +5406,12 @@
                 "Queens Station"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -4255,7 +5428,12 @@
                 "Resting Grounds"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -4271,7 +5449,12 @@
                 "Green Path"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -4287,7 +5470,12 @@
                 "Resting Grounds"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -4304,7 +5492,12 @@
                 "City"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -4321,7 +5514,12 @@
                 "Crossroads"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -4338,7 +5536,12 @@
                 "Crossroads"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -4355,7 +5558,12 @@
                 "Town"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -4372,7 +5580,12 @@
                 "Crossroads"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -4388,7 +5601,12 @@
                 "Mines"
             ],
             "class": "environment",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -4405,7 +5623,12 @@
                 "Crossroads"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -4422,7 +5645,12 @@
                 "Royal Gardens"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -4439,7 +5667,12 @@
                 "Royal Gardens"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -4456,7 +5689,12 @@
                 "Royal Gardens"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -4472,7 +5710,12 @@
                 "Mines"
             ],
             "class": "environment",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -4488,7 +5731,12 @@
                 "Resting Grounds"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -4504,7 +5752,12 @@
                 "Wastes"
             ],
             "class": "environment",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -4520,7 +5773,12 @@
                 "NM Oro"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -4537,7 +5795,12 @@
                 "Town"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -4553,7 +5816,12 @@
                 "Crossroads"
             ],
             "class": "environment",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -4569,7 +5837,12 @@
                 "Abyss"
             ],
             "class": "environment",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -4586,7 +5859,12 @@
                 "Shaman Temple"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -4603,7 +5881,12 @@
                 "City"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -4620,7 +5903,12 @@
                 "Town"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -4637,7 +5925,12 @@
                 "Wastes"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -4654,7 +5947,12 @@
                 "Mines"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -4671,7 +5969,12 @@
                 "Green Path"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -4688,13 +5991,18 @@
                 "Town"
             ],
             "class": "artifact",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
             "id": 263,
             "src": "knight_image/Screenshot_20240827_214702345.png",
-            "name": "…Turn it off?… Cannot…",
+            "name": "\u2026Turn it off?\u2026 Cannot\u2026",
             "keywords": [
                 "turn off",
                 "cannot"
@@ -4703,7 +6011,12 @@
                 "Abyss"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -4720,7 +6033,12 @@
                 "Wastes"
             ],
             "class": "artifact",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -4737,7 +6055,12 @@
                 "City"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -4754,7 +6077,12 @@
                 "Town"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -4771,7 +6099,12 @@
                 "Royal Gardens"
             ],
             "class": "artifact",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -4787,7 +6120,12 @@
                 "Abyss"
             ],
             "class": "environment",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -4804,7 +6142,12 @@
                 "Green Path"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -4821,7 +6164,12 @@
                 "Crossroads"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -4838,7 +6186,12 @@
                 "Town"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -4854,7 +6207,12 @@
                 "Soul Society"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -4871,7 +6229,12 @@
                 "Abyss"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -4888,7 +6251,12 @@
                 "Town"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -4905,7 +6273,12 @@
                 "Town"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -4922,7 +6295,12 @@
                 "Wastes"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -4939,13 +6317,18 @@
                 "Green Path"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
             "id": 278,
             "src": "knight_image/Screenshot_20240826_234744180.png",
-            "name": "They're not brutes though, no. The sickness in the air that clouds the mind of lesser beasts… they resist it. They retain their intellect and their honour, though also their lethal traditions.",
+            "name": "They're not brutes though, no. The sickness in the air that clouds the mind of lesser beasts\u2026 they resist it. They retain their intellect and their honour, though also their lethal traditions.",
             "keywords": [
                 "sickness",
                 "intellect",
@@ -4956,7 +6339,12 @@
                 "Wastes"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -4972,7 +6360,12 @@
                 "Dream World"
             ],
             "class": "artifact",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -4988,7 +6381,12 @@
                 "Outskirts"
             ],
             "class": "environment",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -5005,7 +6403,12 @@
                 "Royal Gardens"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -5022,7 +6425,12 @@
                 "Royal Gardens"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -5038,7 +6446,12 @@
                 "Town"
             ],
             "class": "environment",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -5055,7 +6468,12 @@
                 "Queens Station"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -5072,7 +6490,12 @@
                 "Royal Gardens"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -5088,7 +6511,12 @@
                 "Abyss"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -5105,7 +6533,12 @@
                 "Fog Canyon"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -5121,7 +6554,12 @@
                 "Resting Grounds"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -5137,7 +6575,12 @@
                 "Mines"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -5154,7 +6597,12 @@
                 "Queens Station"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -5171,7 +6619,12 @@
                 "Town"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -5188,7 +6641,12 @@
                 "City"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -5204,7 +6662,12 @@
                 "Green Path"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -5221,7 +6684,12 @@
                 "Wastes"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -5238,7 +6706,12 @@
                 "Resting Grounds"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -5254,7 +6727,12 @@
                 "Kings Pass"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -5271,7 +6749,12 @@
                 "Queens Station"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -5288,7 +6771,12 @@
                 "Crossroads"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -5305,7 +6793,12 @@
                 "Fog Canyon"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -5322,7 +6815,12 @@
                 "Crossroads"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -5339,7 +6837,12 @@
                 "Green Path"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -5356,7 +6859,12 @@
                 "City"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -5372,7 +6880,12 @@
                 "Dream World"
             ],
             "class": "environment",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -5389,7 +6902,12 @@
                 "Town"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -5406,7 +6924,12 @@
                 "Town"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -5422,7 +6945,12 @@
                 "Crossroads"
             ],
             "class": "artifact",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -5439,7 +6967,12 @@
                 "Waterways"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -5456,7 +6989,12 @@
                 "Queens Station"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -5474,7 +7012,12 @@
                 "City"
             ],
             "class": "artifact",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -5491,7 +7034,12 @@
                 "Queens Station"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -5507,7 +7055,12 @@
                 "Crossroads"
             ],
             "class": "environment",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -5524,7 +7077,12 @@
                 "Royal Gardens"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -5541,7 +7099,12 @@
                 "Crossroads"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -5558,7 +7121,12 @@
                 "City"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -5575,7 +7143,12 @@
                 "Mines"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -5591,7 +7164,12 @@
                 "Resting Grounds"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -5608,7 +7186,12 @@
                 "Green Path"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -5625,7 +7208,12 @@
                 "Shaman Temple"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -5641,7 +7229,12 @@
                 "Crossroads"
             ],
             "class": "environment",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -5659,7 +7252,12 @@
                 "Town"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -5677,7 +7275,12 @@
                 "Town"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -5694,7 +7297,12 @@
                 "Town"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -5711,7 +7319,12 @@
                 "Green Path"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -5728,7 +7341,12 @@
                 "City"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -5745,7 +7363,12 @@
                 "City"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -5762,7 +7385,12 @@
                 "Crossroads"
             ],
             "class": "environment",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -5779,7 +7407,12 @@
                 "Royal Gardens"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -5796,7 +7429,12 @@
                 "Outskirts"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -5813,7 +7451,12 @@
                 "Crossroads"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -5829,7 +7472,12 @@
                 "Green Path"
             ],
             "class": "environment",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -5846,13 +7494,18 @@
                 "Resting Grounds"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
             "id": 332,
             "src": "knight_image/Screenshot_20240826_225724735.png",
-            "name": "“Hallownest is perfect for vigilant explorers like us. So tense and thrilling. In this place, you’re either alert or you’re dead.”",
+            "name": "\u201cHallownest is perfect for vigilant explorers like us. So tense and thrilling. In this place, you\u2019re either alert or you\u2019re dead.\u201d",
             "keywords": [
                 "Hallownest",
                 "explorers",
@@ -5863,7 +7516,12 @@
                 "Green Path"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -5880,7 +7538,12 @@
                 "Outskirts"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -5897,7 +7560,12 @@
                 "Town"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -5914,7 +7582,12 @@
                 "Crossroads"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -5930,7 +7603,12 @@
                 "Abyss"
             ],
             "class": "environment",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -5946,7 +7624,12 @@
                 "Resting Grounds"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -5963,7 +7646,12 @@
                 "Town"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -5980,7 +7668,12 @@
                 "Town"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -5997,7 +7690,12 @@
                 "City"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -6014,7 +7712,12 @@
                 "Crossroads"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -6031,7 +7734,12 @@
                 "Waterways"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -6047,7 +7755,12 @@
                 "Resting Grounds"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -6064,7 +7777,12 @@
                 "Town"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -6080,7 +7798,12 @@
                 "Resting Grounds"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -6096,7 +7819,12 @@
                 "Mines"
             ],
             "class": "environment",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -6112,7 +7840,12 @@
                 "Royal Gardens"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -6129,7 +7862,12 @@
                 "City"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -6146,13 +7884,18 @@
                 "Fog Canyon"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
             "id": 350,
             "src": "knight_image/Screenshot_20240827_215016736.png",
-            "name": " “Absorbed the SHADE CLOAK. Use the cloak to dash through enemies and their attacks without taking damage.”",
+            "name": " \u201cAbsorbed the SHADE CLOAK. Use the cloak to dash through enemies and their attacks without taking damage.\u201d",
             "keywords": [
                 "Shade Cloak",
                 "dash",
@@ -6162,7 +7905,12 @@
                 "Abyss"
             ],
             "class": "artifact",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -6179,7 +7927,12 @@
                 "Abyss"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -6196,7 +7949,12 @@
                 "Crossroads"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -6213,7 +7971,12 @@
                 "Crossroads"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -6230,7 +7993,12 @@
                 "Crossroads"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -6246,7 +8014,12 @@
                 "City"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -6262,7 +8035,12 @@
                 "Crossroads"
             ],
             "class": "environment",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -6279,7 +8057,12 @@
                 "Shaman Temple"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -6296,7 +8079,12 @@
                 "Town"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -6313,7 +8101,12 @@
                 "Green Path"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -6329,7 +8122,12 @@
                 "Dream World"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -6346,7 +8144,12 @@
                 "Royal Gardens"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -6363,7 +8166,12 @@
                 "Crossroads"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -6380,7 +8188,12 @@
                 "Wastes"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -6397,7 +8210,12 @@
                 "Green Path"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -6414,7 +8232,12 @@
                 "Wastes"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -6431,7 +8254,12 @@
                 "Crossroads"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -6448,7 +8276,12 @@
                 "Crossroads"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -6465,7 +8298,12 @@
                 "Resting Grounds"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -6482,7 +8320,12 @@
                 "Queens Station"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -6499,7 +8342,12 @@
                 "Crossroads"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -6516,7 +8364,12 @@
                 "Crossroads"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -6533,7 +8386,12 @@
                 "City"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -6550,7 +8408,12 @@
                 "Crossroads"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -6567,7 +8430,12 @@
                 "City"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -6584,7 +8452,12 @@
                 "Crossroads"
             ],
             "class": "artifact",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -6601,7 +8474,12 @@
                 "Royal Gardens"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -6617,7 +8495,12 @@
                 "Waterways"
             ],
             "class": "environment",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -6633,13 +8516,18 @@
                 "Shaman Temple"
             ],
             "class": "environment",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
             "id": 379,
             "src": "knight_image/Screenshot_20240827_150224161.png",
-            "name": " Mmm… What were we talking about? Oh yes, Charms! I can see you've started your own collection. Very nice! I'll show you some of my own, and you can take one home with you if you like!",
+            "name": " Mmm\u2026 What were we talking about? Oh yes, Charms! I can see you've started your own collection. Very nice! I'll show you some of my own, and you can take one home with you if you like!",
             "keywords": [
                 "Charms",
                 "collection",
@@ -6650,7 +8538,12 @@
                 "Crossroads"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -6666,7 +8559,12 @@
                 "Royal Gardens"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -6683,7 +8581,12 @@
                 "Town"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -6701,7 +8604,12 @@
                 "Town"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -6718,7 +8626,12 @@
                 "Wastes"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -6734,7 +8647,12 @@
                 "Dream World"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -6750,7 +8668,12 @@
                 "NM Oro"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -6766,7 +8689,12 @@
                 "Abyss"
             ],
             "class": "environment",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -6784,7 +8712,12 @@
                 "Town"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -6800,7 +8733,12 @@
                 "Crossroads"
             ],
             "class": "environment",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -6818,7 +8756,12 @@
                 "Town"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -6834,7 +8777,12 @@
                 "Green Path"
             ],
             "class": "artifact",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -6851,7 +8799,12 @@
                 "Town"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -6867,7 +8820,12 @@
                 "Abyss"
             ],
             "class": "environment",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -6884,7 +8842,12 @@
                 "Falsehood"
             ],
             "class": "environment",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -6901,7 +8864,12 @@
                 "Queens Station"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -6919,7 +8887,12 @@
                 "Town"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -6936,7 +8909,12 @@
                 "Fog Canyon"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -6953,7 +8931,12 @@
                 "Resting Grounds"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -6970,7 +8953,12 @@
                 "Green Path"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -6987,7 +8975,12 @@
                 "Green Path"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -7004,7 +8997,12 @@
                 "Wastes"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -7021,7 +9019,12 @@
                 "Green Path"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -7038,7 +9041,12 @@
                 "Respect"
             ],
             "class": "environment",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -7055,7 +9063,12 @@
                 "Crossroads"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -7072,7 +9085,12 @@
                 "Green Path"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -7088,7 +9106,12 @@
                 "Royal Gardens"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -7105,7 +9128,12 @@
                 "Crossroads"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -7122,7 +9150,12 @@
                 "Mines"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -7138,7 +9171,12 @@
                 "Dream World"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -7154,7 +9192,12 @@
                 "Wastes"
             ],
             "class": "environment",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -7170,7 +9213,12 @@
                 "Green Path"
             ],
             "class": "artifact",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -7186,7 +9234,12 @@
                 "Royal Gardens"
             ],
             "class": "environment",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -7203,7 +9256,12 @@
                 "Queens Station"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -7220,7 +9278,12 @@
                 "Resting Grounds"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -7237,7 +9300,12 @@
                 "Crossroads"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -7254,7 +9322,12 @@
                 "City"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -7271,7 +9344,12 @@
                 "Fog Canyon"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -7288,7 +9366,12 @@
                 "Town"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -7305,7 +9388,12 @@
                 "Crossroads"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -7322,7 +9410,12 @@
                 "Resting Grounds"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -7339,13 +9432,18 @@
                 "Queens Station"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
             "id": 421,
             "src": "knight_image/Screenshot_20240826_220036103.png",
-            "name": "She's a tall bug, the wife. I told them to take a larger house, especially given they’re all empty, but they liked the look of that one.",
+            "name": "She's a tall bug, the wife. I told them to take a larger house, especially given they\u2019re all empty, but they liked the look of that one.",
             "keywords": [
                 "wife",
                 "house",
@@ -7356,7 +9454,12 @@
                 "Town"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -7373,7 +9476,12 @@
                 "Queens Station"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -7390,7 +9498,12 @@
                 "Crossroads"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -7406,7 +9519,12 @@
                 "Fog Canyon"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -7423,7 +9541,12 @@
                 "Crossroads"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -7439,7 +9562,12 @@
                 "Kings Pass"
             ],
             "class": "environment",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -7455,7 +9583,12 @@
                 "Kings Pass"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -7472,7 +9605,12 @@
                 "Illumination"
             ],
             "class": "environment",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -7489,7 +9627,12 @@
                 "Resting Grounds"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -7505,7 +9648,12 @@
                 "Mines"
             ],
             "class": "artifact",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -7522,7 +9670,12 @@
                 "City"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -7538,7 +9691,12 @@
                 "Mines"
             ],
             "class": "environment",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -7555,7 +9713,12 @@
                 "Town"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -7571,7 +9734,12 @@
                 "Outskirts"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -7588,7 +9756,12 @@
                 "Green Path"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -7605,7 +9778,12 @@
                 "City"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -7622,7 +9800,12 @@
                 "Fog Canyon"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -7638,7 +9821,12 @@
                 "Green Path"
             ],
             "class": "artifact",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -7655,7 +9843,12 @@
                 "Shaman Temple"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -7671,7 +9864,12 @@
                 "Wastes"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -7687,7 +9885,12 @@
                 "Mines"
             ],
             "class": "environment",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -7704,7 +9907,12 @@
                 "Royal Gardens"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -7721,7 +9929,12 @@
                 "Green Path"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -7738,7 +9951,12 @@
                 "Queens Station"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -7755,7 +9973,12 @@
                 "Town"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -7771,7 +9994,12 @@
                 "Kings Pass"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -7788,7 +10016,12 @@
                 "Green Path"
             ],
             "class": "environment",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -7805,7 +10038,12 @@
                 "City"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -7821,7 +10059,12 @@
                 "Green Path"
             ],
             "class": "environment",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -7837,7 +10080,12 @@
                 "Abyss"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -7853,7 +10101,12 @@
                 "Fog Canyon"
             ],
             "class": "environment",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -7870,7 +10123,12 @@
                 "City"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -7887,7 +10145,12 @@
                 "Royal Gardens"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -7904,7 +10167,12 @@
                 "Town"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -7922,7 +10190,12 @@
                 "Town"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -7939,7 +10212,12 @@
                 "Royal Gardens"
             ],
             "class": "environment",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -7956,7 +10234,12 @@
                 "City"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -7972,7 +10255,12 @@
                 "Abyss"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -7989,7 +10277,12 @@
                 "Crossroads"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -8006,13 +10299,18 @@
                 "Royal Gardens"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
             "id": 461,
             "src": "knight_image/Screenshot_20240828_160606989.png",
-            "name": "That… would be fun… wouldn't it…?",
+            "name": "That\u2026 would be fun\u2026 wouldn't it\u2026?",
             "keywords": [
                 "fun",
                 "Marmu",
@@ -8022,7 +10320,12 @@
                 "Royal Gardens"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -8039,7 +10342,12 @@
                 "Royal Gardens"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -8056,7 +10364,12 @@
                 "Green Path"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -8072,7 +10385,12 @@
                 "Resting Grounds"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -8088,7 +10406,12 @@
                 "Wastes"
             ],
             "class": "environment",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -8105,7 +10428,12 @@
                 "Royal Gardens"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -8122,7 +10450,12 @@
                 "Crossroads"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -8139,7 +10472,12 @@
                 "City"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -8156,7 +10494,12 @@
                 "Wastes"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -8173,7 +10516,12 @@
                 "City"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -8190,7 +10538,12 @@
                 "Royal Gardens"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -8206,7 +10559,12 @@
                 "Crossroads"
             ],
             "class": "environment",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -8223,7 +10581,12 @@
                 "City"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -8240,7 +10603,12 @@
                 "Shaman Temple"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -8257,7 +10625,12 @@
                 "Crossroads"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -8274,7 +10647,12 @@
                 "City"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -8291,7 +10669,12 @@
                 "City"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -8307,15 +10690,19 @@
                 "Green Path"
             ],
             "class": "artifact",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
             "id": 479,
             "src": "knight_image/Quirrel.jpg",
             "name": "Quirrel",
-            "keywords": [
-            ],
+            "keywords": [],
             "tags": [
                 "Quirrel",
                 "Crossroads",
@@ -8326,43 +10713,55 @@
                 "Queens Station"
             ],
             "class": "npc",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
             "id": 480,
             "src": "knight_image/relic_dealer.jpg",
             "name": "Relic Dealer",
-            "keywords": [
-            ],
+            "keywords": [],
             "tags": [
                 "Relic Dealer",
                 "City"
             ],
             "class": "npc",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
             "id": 481,
             "src": "knight_image/Iselda.jpg",
             "name": "Iselda",
-            "keywords": [
-            ],
+            "keywords": [],
             "tags": [
                 "Iselda",
                 "Town"
             ],
             "class": "npc",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
             "id": 482,
             "src": "knight_image/cornifer.jpg",
             "name": "Cornifer",
-            "keywords": [
-            ],
+            "keywords": [],
             "tags": [
                 "Cornifer",
                 "Crossroads",
@@ -8373,72 +10772,92 @@
                 "City"
             ],
             "class": "npc",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
             "id": 483,
             "src": "knight_image/zote.jpg",
             "name": "Zote",
-            "keywords": [
-            ],
+            "keywords": [],
             "tags": [
                 "Zote",
                 "City",
                 "Green Path"
             ],
             "class": "npc",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
             "id": 484,
             "src": "knight_image/banker.jpg",
             "name": "Banker",
-            "keywords": [
-            ],
+            "keywords": [],
             "tags": [
                 "Banker",
                 "Fog Canyon"
             ],
             "class": "npc",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
             "id": 485,
             "src": "knight_image/dream_moth.jpg",
             "name": "Dream Moth",
-            "keywords": [
-            ],
+            "keywords": [],
             "tags": [
                 "Dream Moth",
                 "Resting Grounds"
             ],
             "class": "npc",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
             "id": 486,
             "src": "knight_image/nailsmith.jpg",
             "name": "Nailsmith",
-            "keywords": [
-            ],
+            "keywords": [],
             "tags": [
                 "Nailsmith",
                 "City"
             ],
             "class": "npc",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
             "id": 487,
             "src": "knight_image/stag.jpg",
             "name": "Stag",
-            "keywords": [
-            ],
+            "keywords": [],
             "tags": [
                 "Stag",
                 "City",
@@ -8450,57 +10869,73 @@
                 "Connection"
             ],
             "class": "npc",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
             "id": 488,
             "src": "knight_image/Sly.jpg",
             "name": "Sly",
-            "keywords": [
-            ],
+            "keywords": [],
             "tags": [
                 "Sly",
                 "Crossroads"
             ],
             "class": "npc",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
             "id": 489,
             "src": "knight_image/leg_eater.jpg",
             "name": "Leg Eater",
-            "keywords": [
-            ],
+            "keywords": [],
             "tags": [
                 "Leg Eater",
                 "Wastes"
             ],
             "class": "npc",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
             "id": 490,
             "src": "knight_image/queen.jpg",
             "name": "Queen",
-            "keywords": [
-            ],
+            "keywords": [],
             "tags": [
                 "Queen",
                 "Royal Gardens"
             ],
             "class": "npc",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
             "id": 491,
             "src": "knight_image/hornet.jpg",
             "name": "Hornet",
-            "keywords": [
-            ],
+            "keywords": [],
             "tags": [
                 "Hornet",
                 "Green Path",
@@ -8509,118 +10944,155 @@
                 "Proof of Resolve"
             ],
             "class": "npc",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
             "id": 492,
             "src": "knight_image/Bretta.jpg",
             "name": "Bretta",
-            "keywords": [
-            ],
+            "keywords": [],
             "tags": [
                 "Bretta",
                 "Wastes"
             ],
             "class": "npc",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
             "id": 493,
             "src": "knight_image/Cloth.jpg",
             "name": "Cloth",
-            "keywords": [
-            ],
+            "keywords": [],
             "tags": [
                 "Cloth",
                 "Wastes"
             ],
             "class": "npc",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
             "id": 494,
             "src": "knight_image/charm.jpg",
             "name": "Charm Slug",
-            "keywords": [
-            ],
+            "keywords": [],
             "tags": [
                 "Charm Slug",
                 "Crossroads"
             ],
             "class": "npc",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
             "id": 495,
             "src": "knight_image/myla.jpg",
             "name": "Myla",
-            "keywords": [
-            ],
+            "keywords": [],
             "tags": [
                 "Myla",
                 "Crossroads"
             ],
             "class": "npc",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
             "id": 496,
             "src": "knight_image/giraffee.jpg",
             "name": "Giraffe",
-            "keywords": [
-            ],
+            "keywords": [],
             "tags": [
                 "Giraffe",
                 "Queens Station"
             ],
             "class": "npc",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
             "id": 497,
             "src": "knight_image/vengeful_spirit.jpg",
             "name": "Vengeful Spirit",
-            "keywords": [
-            ],
+            "keywords": [],
             "tags": [
                 "Vengeful Spirit",
                 "Shaman Temple"
             ],
             "class": "npc",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
             "id": 498,
             "src": "knight_image/nm_oro.jpg",
             "name": "NM Oro",
-            "keywords": [
-            ],
+            "keywords": [],
             "tags": [
                 "NM Oro"
             ],
             "class": "npc",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
             "id": 499,
             "src": "knight_image/emilitia.jpg",
             "name": "Emilitia",
-            "keywords": [
-            ],
+            "keywords": [],
             "tags": [
                 "Emilitia",
                 "City"
             ],
             "class": "npc",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -8634,7 +11106,12 @@
                 "Kings Pass"
             ],
             "class": "cut-scene",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -8650,7 +11127,12 @@
                 "Outskirts"
             ],
             "class": "cut-scene",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -8658,14 +11140,21 @@
             "src": "knight_gif/Screenshot_20240827_163613164.gif",
             "name": "The knight jumped down from the Mines to the RESTING GROUND.",
             "keywords": [
-                "jump down", "mines", "resting grounds"
+                "jump down",
+                "mines",
+                "resting grounds"
             ],
             "tags": [
                 "Mines",
                 "Resting Grounds"
             ],
             "class": "environment",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -8673,14 +11162,21 @@
             "src": "knight_gif/Screenshot_20240827_144716000.gif",
             "name": "In the City of Tears, there are three aligned statues and one statue wearing a strange mask, drenched by the heavy rain that falls like tears, with Hornet appearing at the end.",
             "keywords": [
-                "rain", "statues", "Hornet"
+                "rain",
+                "statues",
+                "Hornet"
             ],
             "tags": [
                 "Hornet",
                 "City"
             ],
             "class": "cut-scene",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         },
         {
@@ -8694,7 +11190,12 @@
                 "Knight"
             ],
             "class": "npc",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": ""
         }
     ]

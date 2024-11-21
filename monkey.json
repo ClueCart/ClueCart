@@ -277,7 +277,12 @@
                 "freedonia"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 1
         },
@@ -291,7 +296,12 @@
                 "cropCircles"
             ],
             "class": "environment",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 2
         },
@@ -308,7 +318,12 @@
                 "MonkeyVision"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 3
         },
@@ -325,7 +340,12 @@
                 "diogenesWinnipeg"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 4
         },
@@ -342,7 +362,12 @@
                 "Wylon's Witnesses Missionaries"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 5
         },
@@ -359,7 +384,12 @@
                 "sheWolf"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 6
         },
@@ -376,7 +406,12 @@
                 "crystalKitchen"
             ],
             "class": "cut-scene",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 7
         },
@@ -393,7 +428,12 @@
                 "freedonia"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 8
         },
@@ -410,7 +450,12 @@
                 "crystalKitchen"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 9
         },
@@ -427,7 +472,12 @@
                 "crash"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 10
         },
@@ -444,7 +494,12 @@
                 "Desktop"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 11
         },
@@ -461,7 +516,12 @@
                 "sheWolf"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 12
         },
@@ -478,7 +538,12 @@
                 "diogenesWinnipeg"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 13
         },
@@ -495,7 +560,12 @@
                 "MonkeyVision"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 14
         },
@@ -512,7 +582,12 @@
                 "sheWolf"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 15
         },
@@ -529,7 +604,12 @@
                 "BetYourLife"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 16
         },
@@ -546,7 +626,12 @@
                 "crystalKitchen"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 17
         },
@@ -563,7 +648,12 @@
                 "freedonia"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 18
         },
@@ -580,7 +670,12 @@
                 "MonkeyVision"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 19
         },
@@ -597,7 +692,12 @@
                 "crystalKitchen"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 20
         },
@@ -615,7 +715,12 @@
                 "Callimico oviparus"
             ],
             "class": "artifact",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 21
         },
@@ -632,7 +737,12 @@
                 "Wylon's Witnesses Missionaries"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 22
         },
@@ -649,7 +759,12 @@
                 "Wylon's Witnesses Missionaries"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 23
         },
@@ -666,7 +781,12 @@
                 "crystalKitchen"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 24
         },
@@ -683,7 +803,12 @@
                 "crystalKitchen"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 25
         },
@@ -700,7 +825,12 @@
                 "cryingGame"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 26
         },
@@ -717,7 +847,12 @@
                 "diogenesWinnipeg"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 27
         },
@@ -735,7 +870,12 @@
                 "Hexa's CEO"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 28
         },
@@ -751,7 +891,12 @@
                 "Browser"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 29
         },
@@ -767,7 +912,12 @@
                 "crash"
             ],
             "class": "environment",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 30
         },
@@ -784,7 +934,12 @@
                 "MonkeyVision"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 31
         },
@@ -801,7 +956,12 @@
                 "Totally not the FBI"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 32
         },
@@ -818,7 +978,12 @@
                 "cropCircles"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 33
         },
@@ -835,7 +1000,12 @@
                 "freedonia"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 34
         },
@@ -852,7 +1022,12 @@
                 "Totally not the FBI"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 35
         },
@@ -869,7 +1044,12 @@
                 "freedonia"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 36
         },
@@ -886,7 +1066,12 @@
                 "freedonia"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 37
         },
@@ -903,7 +1088,12 @@
                 "BetYourLife"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 38
         },
@@ -918,7 +1108,12 @@
                 "Wylon's Witnesses Missionaries"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 39
         },
@@ -935,7 +1130,12 @@
                 "MonkeyVision"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 40
         },
@@ -952,7 +1152,12 @@
                 "lostInSpace"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 41
         },
@@ -969,7 +1174,12 @@
                 "Browser"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 42
         },
@@ -986,7 +1196,12 @@
                 "Mailman"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 43
         },
@@ -1003,7 +1218,12 @@
                 "BetYourLife"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 44
         },
@@ -1020,7 +1240,12 @@
                 "crystalKitchen"
             ],
             "class": "cut-scene",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 45
         },
@@ -1037,7 +1262,12 @@
                 "cryingGame"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 46
         },
@@ -1053,7 +1283,12 @@
                 "Ending"
             ],
             "class": "cut-scene",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 47
         },
@@ -1069,7 +1304,12 @@
                 "Ending"
             ],
             "class": "cut-scene",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 48
         },
@@ -1086,7 +1326,12 @@
                 "Wylon's Witnesses Missionaries"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 49
         },
@@ -1103,7 +1348,12 @@
                 "diogenesWinnipeg"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 50
         },
@@ -1120,7 +1370,12 @@
                 "BetYourLife"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 51
         },
@@ -1137,7 +1392,12 @@
                 "cryingGame"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 52
         },
@@ -1154,7 +1414,12 @@
                 "President Walker"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 53
         },
@@ -1170,7 +1435,12 @@
                 "MonkeyVision"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 54
         },
@@ -1187,7 +1457,12 @@
                 "Delivery Guy"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 55
         },
@@ -1204,7 +1479,12 @@
                 "freedonia"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 56
         },
@@ -1221,7 +1501,12 @@
                 "Wylon's Witnesses Missionaries"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 57
         },
@@ -1238,7 +1523,12 @@
                 "freedonia"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 58
         },
@@ -1255,7 +1545,12 @@
                 "diogenesWinnipeg"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 59
         },
@@ -1272,7 +1567,12 @@
                 "crystalKitchen"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 60
         },
@@ -1288,7 +1588,12 @@
                 "Ending"
             ],
             "class": "cut-scene",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 61
         },
@@ -1305,7 +1610,12 @@
                 "MonkeyVision"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 62
         },
@@ -1322,7 +1632,12 @@
                 "crystalKitchen"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 63
         },
@@ -1339,7 +1654,12 @@
                 "Delivery Guy"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 64
         },
@@ -1356,7 +1676,12 @@
                 "diogenesWinnipeg"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 65
         },
@@ -1373,7 +1698,12 @@
                 "MonkeyVision"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 66
         },
@@ -1390,7 +1720,12 @@
                 "diogenesWinnipeg"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 67
         },
@@ -1407,7 +1742,12 @@
                 "Hexa's CEO"
             ],
             "class": "cut-scene",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 68
         },
@@ -1423,7 +1763,12 @@
                 "Phone"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 69
         },
@@ -1440,7 +1785,12 @@
                 "MonkeyVision"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 70
         },
@@ -1457,7 +1807,12 @@
                 "The Landlord"
             ],
             "class": "environment",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 71
         },
@@ -1475,7 +1830,12 @@
                 "Hexa's CEO"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 72
         },
@@ -1492,7 +1852,12 @@
                 "MonkeyVision"
             ],
             "class": "environment",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 73
         },
@@ -1509,7 +1874,12 @@
                 "MonkeyVision"
             ],
             "class": "environment",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 74
         },
@@ -1524,7 +1894,12 @@
                 "MonkeyVision"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 75
         },
@@ -1541,7 +1916,12 @@
                 "Krammer"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 76
         },
@@ -1558,7 +1938,12 @@
                 "MonkeyVision"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 77
         },
@@ -1574,7 +1959,12 @@
                 "Phone"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 78
         },
@@ -1591,7 +1981,12 @@
                 "MonkeyVision"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 79
         },
@@ -1608,7 +2003,12 @@
                 "diogenesWinnipeg"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 80
         },
@@ -1625,7 +2025,12 @@
                 "MonkeyVision"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 81
         },
@@ -1641,7 +2046,12 @@
                 "Browser"
             ],
             "class": "Text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 82
         },
@@ -1658,7 +2068,12 @@
                 "Browser"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 83
         },
@@ -1675,7 +2090,12 @@
                 "ghostWriters"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 84
         },
@@ -1691,7 +2111,12 @@
                 "Phone"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 85
         },
@@ -1708,7 +2133,12 @@
                 "MonkeyVision"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 86
         },
@@ -1725,7 +2155,12 @@
                 "Wylon's Witnesses Missionaries"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 87
         },
@@ -1742,7 +2177,12 @@
                 "Krammer"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 88
         },
@@ -1759,7 +2199,12 @@
                 "sheWolf"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 89
         },
@@ -1776,7 +2221,12 @@
                 "crash"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 90
         },
@@ -1793,7 +2243,12 @@
                 "BetYourLife"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 91
         },
@@ -1810,7 +2265,12 @@
                 "Totally not the FBI"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 92
         },
@@ -1827,7 +2287,12 @@
                 "lostInSpace"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 93
         },
@@ -1844,7 +2309,12 @@
                 "cropCircles"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 94
         },
@@ -1860,7 +2330,12 @@
                 "Museum"
             ],
             "class": "environment",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 95
         },
@@ -1877,7 +2352,12 @@
                 "Wylon's Witnesses Missionaries"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 96
         },
@@ -1894,7 +2374,12 @@
                 "freedonia"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 97
         },
@@ -1911,7 +2396,12 @@
                 "MonkeyVision"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 98
         },
@@ -1927,7 +2417,12 @@
                 "Phone"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 99
         },
@@ -1944,7 +2439,12 @@
                 "Wylon's Witnesses Missionaries"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 100
         },
@@ -1962,7 +2462,12 @@
                 "nightHawk"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 101
         },
@@ -1979,7 +2484,12 @@
                 "lostInSpace"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 102
         },
@@ -1996,7 +2506,12 @@
                 "diogenesWinnipeg"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 103
         },
@@ -2013,7 +2528,12 @@
                 "Krammer"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 104
         },
@@ -2030,7 +2550,12 @@
                 "cryingGame"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 105
         },
@@ -2045,7 +2570,12 @@
                 "sheWolf"
             ],
             "class": "environment",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 106
         },
@@ -2063,7 +2593,12 @@
                 "Hexa's CEO"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 107
         },
@@ -2080,7 +2615,12 @@
                 "freedonia"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 108
         },
@@ -2097,7 +2637,12 @@
                 "President Walker"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 109
         },
@@ -2114,7 +2659,12 @@
                 "Museum"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 110
         },
@@ -2131,7 +2681,12 @@
                 "freedonia"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 111
         },
@@ -2148,7 +2703,12 @@
                 "MonkeyVision"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 112
         },
@@ -2165,7 +2725,12 @@
                 "MonkeyVision"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 113
         },
@@ -2182,7 +2747,12 @@
                 "sheWolf"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 114
         },
@@ -2199,7 +2769,12 @@
                 "freedonia"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 115
         },
@@ -2216,7 +2791,12 @@
                 "diogenesWinnipeg"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 116
         },
@@ -2233,7 +2813,12 @@
                 "lostInSpace"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 117
         },
@@ -2250,7 +2835,12 @@
                 "freedonia"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 118
         },
@@ -2267,7 +2857,12 @@
                 "Email"
             ],
             "class": "Text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 119
         },
@@ -2284,7 +2879,12 @@
                 "crash"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 120
         },
@@ -2302,7 +2902,12 @@
                 "Security and Fuel"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 121
         },
@@ -2319,7 +2924,12 @@
                 "diogenesWinnipeg"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 122
         },
@@ -2336,7 +2946,12 @@
                 "diogenesWinnipeg"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 123
         },
@@ -2353,7 +2968,12 @@
                 "crystalKitchen"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 124
         },
@@ -2370,7 +2990,12 @@
                 "sheWolf"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 125
         },
@@ -2385,7 +3010,12 @@
                 "crystalKitchen"
             ],
             "class": "environment",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 126
         },
@@ -2402,7 +3032,12 @@
                 "cropCircles"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 127
         },
@@ -2421,7 +3056,12 @@
                 "crystalKitchen"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 128
         },
@@ -2438,7 +3078,12 @@
                 "Desktop"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 129
         },
@@ -2455,7 +3100,12 @@
                 "cropCircles"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 130
         },
@@ -2473,7 +3123,12 @@
                 "Hexa's CEO"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 131
         },
@@ -2490,7 +3145,12 @@
                 "MonkeyVision"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 132
         },
@@ -2507,7 +3167,12 @@
                 "Wylon's Witnesses Missionaries"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 133
         },
@@ -2524,7 +3189,12 @@
                 "MonkeyVision"
             ],
             "class": "environment",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 134
         },
@@ -2541,7 +3211,12 @@
                 "sheWolf"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 135
         },
@@ -2558,7 +3233,12 @@
                 "Museum"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 136
         },
@@ -2574,7 +3254,12 @@
                 "Bedroom"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 137
         },
@@ -2592,7 +3277,12 @@
                 "Hexa's CEO"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 138
         },
@@ -2609,7 +3299,12 @@
                 "Delivery Guy"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 139
         },
@@ -2625,7 +3320,12 @@
                 "Browser"
             ],
             "class": "Text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 140
         },
@@ -2642,7 +3342,12 @@
                 "sheWolf"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 141
         },
@@ -2658,7 +3363,12 @@
                 "lostInSpace"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 142
         },
@@ -2675,7 +3385,12 @@
                 "MonkeyVision"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 143
         },
@@ -2692,7 +3407,12 @@
                 "MonkeyVision"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 144
         },
@@ -2709,7 +3429,12 @@
                 "cropCircles"
             ],
             "class": "cut-scene",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 145
         },
@@ -2726,7 +3451,12 @@
                 "cryingGame"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 146
         },
@@ -2743,7 +3473,12 @@
                 "diogenesWinnipeg"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 147
         },
@@ -2760,7 +3495,12 @@
                 "cryingGame"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 148
         },
@@ -2777,7 +3517,12 @@
                 "diogenesWinnipeg"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 149
         },
@@ -2796,7 +3541,12 @@
                 "nightHawk"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 150
         },
@@ -2813,7 +3563,12 @@
                 "freedonia"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 151
         },
@@ -2829,7 +3584,12 @@
                 "crash"
             ],
             "class": "environment",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 152
         },
@@ -2846,7 +3606,12 @@
                 "Krammer"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 153
         },
@@ -2863,7 +3628,12 @@
                 "diogenesWinnipeg"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 154
         },
@@ -2880,7 +3650,12 @@
                 "crash"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 155
         },
@@ -2897,7 +3672,12 @@
                 "cryingGame"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 156
         },
@@ -2913,7 +3693,12 @@
                 "MonkeyVision"
             ],
             "class": "environment",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 157
         },
@@ -2931,7 +3716,12 @@
                 "President Walker"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 158
         },
@@ -2948,7 +3738,12 @@
                 "President Walker"
             ],
             "class": "Text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 159
         },
@@ -2965,7 +3760,12 @@
                 "diogenesWinnipeg"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 160
         },
@@ -2982,7 +3782,12 @@
                 "diogenesWinnipeg"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 161
         },
@@ -3000,7 +3805,12 @@
                 "Lemur wylonii major"
             ],
             "class": "artifact",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 162
         },
@@ -3017,7 +3827,12 @@
                 "Delivery Guy"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 163
         },
@@ -3032,7 +3847,12 @@
                 "diogenesWinnipeg"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 164
         },
@@ -3049,7 +3869,12 @@
                 "crash"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 165
         },
@@ -3066,7 +3891,12 @@
                 "diogenesWinnipeg"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 166
         },
@@ -3082,7 +3912,12 @@
                 "Video"
             ],
             "class": "Text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 167
         },
@@ -3098,7 +3933,12 @@
                 "Ending"
             ],
             "class": "cut-scene",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 168
         },
@@ -3115,7 +3955,12 @@
                 "cropCircles"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 169
         },
@@ -3132,7 +3977,12 @@
                 "BetYourLife"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 170
         },
@@ -3149,7 +3999,12 @@
                 "Wylon's Witnesses Missionaries"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 171
         },
@@ -3166,7 +4021,12 @@
                 "MonkeyVision"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 172
         },
@@ -3183,7 +4043,12 @@
                 "freedonia"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 173
         },
@@ -3200,7 +4065,12 @@
                 "MonkeyVision"
             ],
             "class": "environment",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 174
         },
@@ -3217,7 +4087,12 @@
                 "sheWolf"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 175
         },
@@ -3234,7 +4109,12 @@
                 "Delivery Guy"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 176
         },
@@ -3250,7 +4130,12 @@
                 "crystalKitchen"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 177
         },
@@ -3266,7 +4151,12 @@
                 "Browser"
             ],
             "class": "Text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 178
         },
@@ -3283,7 +4173,12 @@
                 "Wylon's Witnesses Missionaries"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 179
         },
@@ -3297,7 +4192,12 @@
                 "MonkeyVision"
             ],
             "class": "environment",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 180
         },
@@ -3314,7 +4214,12 @@
                 "diogenesWinnipeg"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 181
         },
@@ -3331,7 +4236,12 @@
                 "diogenesWinnipeg"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 182
         },
@@ -3347,7 +4257,12 @@
                 "crystalKitchen"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 183
         },
@@ -3364,7 +4279,12 @@
                 "MonkeyVision"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 184
         },
@@ -3381,7 +4301,12 @@
                 "cryingGame"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 185
         },
@@ -3398,7 +4323,12 @@
                 "lostInSpace"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 186
         },
@@ -3415,7 +4345,12 @@
                 "sheWolf"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 187
         },
@@ -3432,7 +4367,12 @@
                 "freedonia"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 188
         },
@@ -3449,7 +4389,12 @@
                 "Krammer"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 189
         },
@@ -3464,7 +4409,12 @@
                 "diogenesWinnipeg"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 190
         },
@@ -3481,7 +4431,12 @@
                 "diogenesWinnipeg"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 191
         },
@@ -3498,7 +4453,12 @@
                 "Wylon's Witnesses Missionaries"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 192
         },
@@ -3514,7 +4474,12 @@
                 "Ending"
             ],
             "class": "cut-scene",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 193
         },
@@ -3531,7 +4496,12 @@
                 "The Landlord"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 194
         },
@@ -3548,7 +4518,12 @@
                 "diogenesWinnipeg"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 195
         },
@@ -3564,7 +4539,12 @@
                 "Ending"
             ],
             "class": "cut-scene",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 196
         },
@@ -3581,7 +4561,12 @@
                 "cropCircles"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 197
         },
@@ -3598,7 +4583,12 @@
                 "diogenesWinnipeg"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 198
         },
@@ -3615,7 +4605,12 @@
                 "lostInSpace"
             ],
             "class": "Text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 199
         },
@@ -3632,7 +4627,12 @@
                 "freedonia"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 200
         },
@@ -3649,7 +4649,12 @@
                 "MonkeyVision"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 201
         },
@@ -3666,7 +4671,12 @@
                 "crystalKitchen"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 202
         },
@@ -3683,7 +4693,12 @@
                 "cryingGame"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 203
         },
@@ -3700,7 +4715,12 @@
                 "MonkeyVision"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 204
         },
@@ -3719,7 +4739,12 @@
                 "Hexa's CEO"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 205
         },
@@ -3735,7 +4760,12 @@
                 "sheWolf"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 206
         },
@@ -3752,7 +4782,12 @@
                 "cryingGame"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 207
         },
@@ -3769,7 +4804,12 @@
                 "crystalKitchen"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 208
         },
@@ -3787,7 +4827,12 @@
                 "Prebytis freedonius"
             ],
             "class": "artifact",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 209
         },
@@ -3804,7 +4849,12 @@
                 "Browser"
             ],
             "class": "Text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 210
         },
@@ -3820,7 +4870,12 @@
                 "Phone"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 211
         },
@@ -3837,7 +4892,12 @@
                 "freedonia"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 212
         },
@@ -3855,7 +4915,12 @@
                 "President Walker"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 213
         },
@@ -3872,7 +4937,12 @@
                 "Krammer"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 214
         },
@@ -3889,7 +4959,12 @@
                 "BetYourLife"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 215
         },
@@ -3906,7 +4981,12 @@
                 "Wylon's Witnesses Missionaries"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 216
         },
@@ -3923,7 +5003,12 @@
                 "MonkeyVision"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 217
         },
@@ -3940,7 +5025,12 @@
                 "diogenesWinnipeg"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 218
         },
@@ -3958,7 +5048,12 @@
                 "President Walker"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 219
         },
@@ -3975,7 +5070,12 @@
                 "Wylon's Witnesses Missionaries"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 220
         },
@@ -3992,7 +5092,12 @@
                 "cryingGame"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 221
         },
@@ -4009,7 +5114,12 @@
                 "freedonia"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 222
         },
@@ -4026,7 +5136,12 @@
                 "Krammer"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 223
         },
@@ -4043,7 +5158,12 @@
                 "Ending"
             ],
             "class": "artifact",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 224
         },
@@ -4060,7 +5180,12 @@
                 "lostInSpace"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 225
         },
@@ -4077,7 +5202,12 @@
                 "freedonia"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 226
         },
@@ -4095,7 +5225,12 @@
                 "Security and Fuel"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 227
         },
@@ -4112,7 +5247,12 @@
                 "MonkeyVision"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 228
         },
@@ -4129,7 +5269,12 @@
                 "crash"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 229
         },
@@ -4146,7 +5291,12 @@
                 "The Landlord"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 230
         },
@@ -4163,7 +5313,12 @@
                 "Krammer"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 231
         },
@@ -4180,7 +5335,12 @@
                 "freedonia"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 232
         },
@@ -4197,7 +5357,12 @@
                 "MonkeyVision"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 233
         },
@@ -4214,7 +5379,12 @@
                 "diogenesWinnipeg"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 234
         },
@@ -4231,7 +5401,12 @@
                 "diogenesWinnipeg"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 235
         },
@@ -4248,7 +5423,12 @@
                 "crystalKitchen"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 236
         },
@@ -4265,7 +5445,12 @@
                 "Browser"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 237
         },
@@ -4282,7 +5467,12 @@
                 "cryingGame"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 238
         },
@@ -4299,7 +5489,12 @@
                 "diogenesWinnipeg"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 239
         },
@@ -4316,7 +5511,12 @@
                 "freedonia"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 240
         },
@@ -4335,7 +5535,12 @@
                 "Wylon's Witnesses Missionaries"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 241
         },
@@ -4352,7 +5557,12 @@
                 "diogenesWinnipeg"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 242
         },
@@ -4369,7 +5579,12 @@
                 "MonkeyVision"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 243
         },
@@ -4385,7 +5600,12 @@
                 "Ending"
             ],
             "class": "cut-scene",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 244
         },
@@ -4402,7 +5622,12 @@
                 "cropCircles"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 245
         },
@@ -4419,7 +5644,12 @@
                 "Mailman"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 246
         },
@@ -4436,7 +5666,12 @@
                 "cryingGame"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 247
         },
@@ -4453,7 +5688,12 @@
                 "MonkeyVision"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 248
         },
@@ -4470,7 +5710,12 @@
                 "cropCircles"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 249
         },
@@ -4487,7 +5732,12 @@
                 "lostInSpace"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 250
         },
@@ -4501,7 +5751,12 @@
                 "Bedroom"
             ],
             "class": "environment",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 251
         },
@@ -4518,7 +5773,12 @@
                 "cryingGame"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 252
         },
@@ -4535,7 +5795,12 @@
                 "Mailman"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 253
         },
@@ -4552,7 +5817,12 @@
                 "MonkeyVision"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 254
         },
@@ -4568,7 +5838,12 @@
                 "Browser"
             ],
             "class": "Text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 255
         },
@@ -4585,7 +5860,12 @@
                 "freedonia"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 256
         },
@@ -4601,7 +5881,12 @@
                 "Ending"
             ],
             "class": "cut-scene",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 257
         },
@@ -4616,7 +5901,12 @@
                 "Bedroom"
             ],
             "class": "environment",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 258
         },
@@ -4633,7 +5923,12 @@
                 "sheWolf"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 259
         },
@@ -4650,7 +5945,12 @@
                 "diogenesWinnipeg"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 260
         },
@@ -4667,7 +5967,12 @@
                 "MonkeyVision"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 261
         },
@@ -4684,7 +5989,12 @@
                 "diogenesWinnipeg"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 262
         },
@@ -4702,7 +6012,12 @@
                 "crystalKitchen"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 263
         },
@@ -4719,7 +6034,12 @@
                 "freedonia"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 264
         },
@@ -4736,7 +6056,12 @@
                 "cryingGame"
             ],
             "class": "cut-scene",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 265
         },
@@ -4753,7 +6078,12 @@
                 "Wylon's Witnesses Missionaries"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 266
         },
@@ -4768,7 +6098,12 @@
                 "Bedroom"
             ],
             "class": "environment",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 267
         },
@@ -4785,7 +6120,12 @@
                 "diogenesWinnipeg"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 268
         },
@@ -4802,7 +6142,12 @@
                 "crash"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 269
         },
@@ -4819,7 +6164,12 @@
                 "cryingGame"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 270
         },
@@ -4836,7 +6186,12 @@
                 "crash"
             ],
             "class": "cut-scene",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 271
         },
@@ -4853,7 +6208,12 @@
                 "cropCircles"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 272
         },
@@ -4870,7 +6230,12 @@
                 "MonkeyVision"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 273
         },
@@ -4887,7 +6252,12 @@
                 "Delivery Guy"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 274
         },
@@ -4904,7 +6274,12 @@
                 "MonkeyVision"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 275
         },
@@ -4921,7 +6296,12 @@
                 "diogenesWinnipeg"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 276
         },
@@ -4938,7 +6318,12 @@
                 "The Landlord"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 277
         },
@@ -4955,7 +6340,12 @@
                 "sheWolf"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 278
         },
@@ -4972,7 +6362,12 @@
                 "MonkeyVision"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 279
         },
@@ -4989,7 +6384,12 @@
                 "Delivery Guy"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 280
         },
@@ -5006,7 +6406,12 @@
                 "Wylon's Witnesses Missionaries"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 281
         },
@@ -5023,7 +6428,12 @@
                 "cryingGame"
             ],
             "class": "artifact",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 282
         },
@@ -5040,7 +6450,12 @@
                 "cryingGame"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 283
         },
@@ -5055,7 +6470,12 @@
                 "MonkeyVision"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 284
         },
@@ -5072,7 +6492,12 @@
                 "freedonia"
             ],
             "class": "cut-scene",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 285
         },
@@ -5089,7 +6514,12 @@
                 "diogenesWinnipeg"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 286
         },
@@ -5106,7 +6536,12 @@
                 "freedonia"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 287
         },
@@ -5123,7 +6558,12 @@
                 "President Walker"
             ],
             "class": "Text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 288
         },
@@ -5140,7 +6580,12 @@
                 "cropCircles"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 289
         },
@@ -5157,7 +6602,12 @@
                 "MonkeyVision"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 290
         },
@@ -5173,7 +6623,12 @@
                 "Email"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 291
         },
@@ -5190,7 +6645,12 @@
                 "Chat"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 292
         },
@@ -5202,7 +6662,12 @@
                 "Wylon's Witnesses Missionaries"
             ],
             "class": "npc",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 293
         },
@@ -5214,7 +6679,12 @@
                 "Mailman"
             ],
             "class": "npc",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 294
         },
@@ -5226,7 +6696,12 @@
                 "Delivery Guy"
             ],
             "class": "npc",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 295
         },
@@ -5238,7 +6713,12 @@
                 "The Landlord"
             ],
             "class": "npc",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 296
         },
@@ -5250,7 +6730,12 @@
                 "Krammer"
             ],
             "class": "npc",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 297
         },
@@ -5263,7 +6748,12 @@
                 "crystalKitchen"
             ],
             "class": "npc",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 298
         },
@@ -5276,7 +6766,12 @@
                 "nightHawk"
             ],
             "class": "npc",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 299
         },
@@ -5288,7 +6783,12 @@
                 "Hexa's CEO"
             ],
             "class": "npc",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 300
         },
@@ -5300,7 +6800,12 @@
                 "President Walker"
             ],
             "class": "npc",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 301
         },
@@ -5315,7 +6820,12 @@
                 "Chat"
             ],
             "class": "npc",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 302
         },
@@ -5331,7 +6841,12 @@
                 "crystalKitchen"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 303
         },
@@ -5346,7 +6861,12 @@
                 "nightHawk"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 304
         },
@@ -5362,7 +6882,12 @@
                 "nightHawk"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 305
         },
@@ -5378,7 +6903,12 @@
                 "nightHawk"
             ],
             "class": "environment",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 306
         },
@@ -5393,7 +6923,12 @@
                 "nightHawk"
             ],
             "class": "environment",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 307
         },
@@ -5409,7 +6944,12 @@
                 "crystalKitchen"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 308
         },
@@ -5425,7 +6965,12 @@
                 "crystalKitchen"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 309
         },
@@ -5442,7 +6987,12 @@
                 "Chat"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 310
         },
@@ -5459,7 +7009,12 @@
                 "Saving the Hood"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 311
         },
@@ -5477,7 +7032,12 @@
                 "Security and Fuel"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 312
         },
@@ -5494,7 +7054,12 @@
                 "Saving the Hood"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 313
         },
@@ -5511,7 +7076,12 @@
                 "Saving the Hood"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 314
         },
@@ -5529,7 +7099,12 @@
                 "Saving the Hood"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 315
         },
@@ -5544,7 +7119,12 @@
                 "Chat"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 316
         },
@@ -5560,7 +7140,12 @@
                 "freedonia"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 317
         },
@@ -5575,7 +7160,12 @@
                 "freedonia"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 318
         },
@@ -5591,7 +7181,12 @@
                 "lostInSpace"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 319
         },
@@ -5607,7 +7202,12 @@
                 "lostInSpace"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 320
         },
@@ -5622,7 +7222,12 @@
                 "freedonia"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 321
         },
@@ -5637,7 +7242,12 @@
                 "diogenesWinnipeg"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 322
         },
@@ -5653,7 +7263,12 @@
                 "lostInSpace"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 323
         },
@@ -5668,7 +7283,12 @@
                 "diogenesWinnipeg"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 324
         },
@@ -5682,7 +7302,12 @@
                 "sheWolf"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 325
         },
@@ -5698,7 +7323,12 @@
                 "cryingGame"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 326
         },
@@ -5713,7 +7343,12 @@
                 "sheWolf"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 327
         },
@@ -5729,7 +7364,12 @@
                 "cryingGame"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 328
         },
@@ -5745,7 +7385,12 @@
                 "cryingGame"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 329
         },
@@ -5759,7 +7404,12 @@
                 "sheWolf"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 330
         },
@@ -5775,7 +7425,12 @@
                 "cryingGame"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 331
         },
@@ -5789,7 +7444,12 @@
                 "sheWolf"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 332
         },
@@ -5805,7 +7465,12 @@
                 "cryingGame"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 333
         },
@@ -5822,7 +7487,12 @@
                 "MonkeyVision"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 334
         },
@@ -5839,7 +7509,12 @@
                 "MonkeyVision"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 335
         },
@@ -5856,7 +7531,12 @@
                 "Hexa's CEO"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 336
         },
@@ -5873,7 +7553,12 @@
                 "MonkeyVision"
             ],
             "class": "environment",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 337
         },
@@ -5890,7 +7575,12 @@
                 "The Landlord"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 338
         },
@@ -5906,7 +7596,12 @@
                 "callCenter"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 339
         },
@@ -5924,7 +7619,12 @@
                 "Wylon's Witnesses Missionaries"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 340
         },
@@ -5942,7 +7642,12 @@
                 "President Walker"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 341
         },
@@ -5959,7 +7664,12 @@
                 "President Walker"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 342
         },
@@ -5975,7 +7685,12 @@
                 "Bedroom"
             ],
             "class": "artifact",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 343
         },
@@ -5992,7 +7707,12 @@
                 "Mailman"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 344
         },
@@ -6010,7 +7730,12 @@
                 "President Walker"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 345
         },
@@ -6026,7 +7751,12 @@
                 "Bedroom"
             ],
             "class": "artifact",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 346
         },
@@ -6043,7 +7773,12 @@
                 "ghostWriters"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 347
         },
@@ -6060,7 +7795,12 @@
                 "callCenter"
             ],
             "class": "artifact",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 348
         },
@@ -6077,7 +7817,12 @@
                 "diogenesWinnipeg"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 349
         },
@@ -6093,7 +7838,12 @@
                 "Bedroom"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 350
         },
@@ -6110,7 +7860,12 @@
                 "ethanEdge"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 351
         },
@@ -6127,7 +7882,12 @@
                 "ethanEdge"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 352
         },
@@ -6145,7 +7905,12 @@
                 "Hexa's CEO"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 353
         },
@@ -6161,7 +7926,12 @@
                 "Bedroom"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 354
         },
@@ -6177,7 +7947,12 @@
                 "Ending"
             ],
             "class": "cut-scene",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 355
         },
@@ -6194,7 +7969,12 @@
                 "sayCheese"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 356
         },
@@ -6210,7 +7990,12 @@
                 "Phone"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 357
         },
@@ -6228,7 +8013,12 @@
                 "Hexa's CEO"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 358
         },
@@ -6244,7 +8034,12 @@
                 "Bedroom"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 359
         },
@@ -6261,7 +8056,12 @@
                 "Museum"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 360
         },
@@ -6278,7 +8078,12 @@
                 "MonkeyVision"
             ],
             "class": "Text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 361
         },
@@ -6294,7 +8099,12 @@
                 "Ending"
             ],
             "class": "cut-scene",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 362
         },
@@ -6311,7 +8121,12 @@
                 "cropCircles"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 363
         },
@@ -6328,7 +8143,12 @@
                 "Museum"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 364
         },
@@ -6345,7 +8165,12 @@
                 "Ending"
             ],
             "class": "Text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 365
         },
@@ -6362,7 +8187,12 @@
                 "sayCheese"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 366
         },
@@ -6379,7 +8209,12 @@
                 "MonkeyVision"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 367
         },
@@ -6396,7 +8231,12 @@
                 "The Landlord"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 368
         },
@@ -6413,7 +8253,12 @@
                 "President Walker"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 369
         },
@@ -6430,7 +8275,12 @@
                 "cropCircles"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 370
         },
@@ -6447,7 +8297,12 @@
                 "Ending"
             ],
             "class": "cut-scene",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 371
         },
@@ -6464,7 +8319,12 @@
                 "ethanEdge"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 372
         },
@@ -6480,7 +8340,12 @@
                 "Bedroom"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 373
         },
@@ -6497,7 +8362,12 @@
                 "Ending"
             ],
             "class": "cut-scene",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 374
         },
@@ -6514,7 +8384,12 @@
                 "ethanEdge"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 375
         },
@@ -6531,7 +8406,12 @@
                 "callCenter"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 376
         },
@@ -6547,7 +8427,12 @@
                 "Phone"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 377
         },
@@ -6564,7 +8449,12 @@
                 "President Walker"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 378
         },
@@ -6580,7 +8470,12 @@
                 "Ending"
             ],
             "class": "cut-scene",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 379
         },
@@ -6598,7 +8493,12 @@
                 "Petterus supermegafan"
             ],
             "class": "artifact",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 380
         },
@@ -6615,7 +8515,12 @@
                 "callCenter"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 381
         },
@@ -6632,7 +8537,12 @@
                 "MonkeyVision"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 382
         },
@@ -6649,7 +8559,12 @@
                 "Desktop"
             ],
             "class": "environment",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 383
         },
@@ -6666,7 +8581,12 @@
                 "MonkeyVision"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 384
         },
@@ -6683,7 +8603,12 @@
                 "freedonia"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 385
         },
@@ -6700,7 +8625,12 @@
                 "sayCheese"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 386
         },
@@ -6717,7 +8647,12 @@
                 "Ending"
             ],
             "class": "cut-scene",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 387
         },
@@ -6734,7 +8669,12 @@
                 "elevatorCrusoe"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 388
         },
@@ -6751,7 +8691,12 @@
                 "President Walker"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 389
         },
@@ -6768,7 +8713,12 @@
                 "sheWolf"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 390
         },
@@ -6785,7 +8735,12 @@
                 "ethanEdge"
             ],
             "class": "artifact",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 391
         },
@@ -6802,7 +8757,12 @@
                 "President Walker"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 392
         },
@@ -6819,7 +8779,12 @@
                 "MonkeyVision"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 393
         },
@@ -6836,7 +8801,12 @@
                 "callCenter"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 394
         },
@@ -6853,7 +8823,12 @@
                 "elevatorCrusoe"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 395
         },
@@ -6869,7 +8844,12 @@
                 "Bedroom"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 396
         },
@@ -6886,7 +8866,12 @@
                 "elevatorCrusoe"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 397
         },
@@ -6902,7 +8887,12 @@
                 "Bedroom"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 398
         },
@@ -6919,7 +8909,12 @@
                 "sayCheese"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 399
         },
@@ -6936,7 +8931,12 @@
                 "ethanEdge"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 400
         },
@@ -6953,7 +8953,12 @@
                 "MonkeyVision"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 401
         },
@@ -6970,7 +8975,12 @@
                 "callCenter"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 402
         },
@@ -6987,7 +8997,12 @@
                 "elevatorCrusoe"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 403
         },
@@ -7004,7 +9019,12 @@
                 "President Walker"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 404
         },
@@ -7021,7 +9041,12 @@
                 "elevatorCrusoe"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 405
         },
@@ -7037,7 +9062,12 @@
                 "Bedroom"
             ],
             "class": "artifact",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 406
         },
@@ -7053,7 +9083,12 @@
                 "callCenter"
             ],
             "class": "environment",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 407
         },
@@ -7067,7 +9102,12 @@
                 "Bedroom"
             ],
             "class": "environment",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 408
         },
@@ -7084,7 +9124,12 @@
                 "MonkeyVision"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 409
         },
@@ -7101,7 +9146,12 @@
                 "Delivery Guy"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 410
         },
@@ -7118,7 +9168,12 @@
                 "The Landlord"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 411
         },
@@ -7135,7 +9190,12 @@
                 "ghostWriters"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 412
         },
@@ -7151,7 +9211,12 @@
                 "Bedroom"
             ],
             "class": "environment",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 413
         },
@@ -7168,7 +9233,12 @@
                 "ethanEdge"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 414
         },
@@ -7185,7 +9255,12 @@
                 "President Walker"
             ],
             "class": "cut-scene",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 415
         },
@@ -7202,7 +9277,12 @@
                 "Diary"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 416
         },
@@ -7219,7 +9299,12 @@
                 "MonkeyVision"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 417
         },
@@ -7235,7 +9320,12 @@
                 "Bedroom"
             ],
             "class": "environment",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 418
         },
@@ -7251,7 +9341,12 @@
                 "Email"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 419
         },
@@ -7268,7 +9363,12 @@
                 "Mailman"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 420
         },
@@ -7284,7 +9384,12 @@
                 "Newspaper"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 421
         },
@@ -7301,7 +9406,12 @@
                 "President Walker"
             ],
             "class": "Text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 422
         },
@@ -7318,7 +9428,12 @@
                 "Museum"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 423
         },
@@ -7335,7 +9450,12 @@
                 "MonkeyVision"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 424
         },
@@ -7352,7 +9472,12 @@
                 "ghostWriters"
             ],
             "class": "cut-scene",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 425
         },
@@ -7368,7 +9493,12 @@
                 "Ending"
             ],
             "class": "cut-scene",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 426
         },
@@ -7385,7 +9515,12 @@
                 "ghostWriters"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 427
         },
@@ -7402,7 +9537,12 @@
                 "MonkeyVision"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 428
         },
@@ -7419,7 +9559,12 @@
                 "MonkeyVision"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 429
         },
@@ -7436,7 +9581,12 @@
                 "cropCircles"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 430
         },
@@ -7453,7 +9603,12 @@
                 "elevatorCrusoe"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 431
         },
@@ -7469,7 +9624,12 @@
                 "Bedroom"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 432
         },
@@ -7485,7 +9645,12 @@
                 "Email"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 433
         },
@@ -7502,7 +9667,12 @@
                 "callCenter"
             ],
             "class": "artifact",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 434
         },
@@ -7519,7 +9689,12 @@
                 "elevatorCrusoe"
             ],
             "class": "environment",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 435
         },
@@ -7535,7 +9710,12 @@
                 "Bedroom"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 436
         },
@@ -7552,7 +9732,12 @@
                 "sayCheese"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 437
         },
@@ -7569,7 +9754,12 @@
                 "elevatorCrusoe"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 438
         },
@@ -7585,7 +9775,12 @@
                 "Ending"
             ],
             "class": "cut-scene",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 439
         },
@@ -7601,7 +9796,12 @@
                 "Browser"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 440
         },
@@ -7618,7 +9818,12 @@
                 "sayCheese"
             ],
             "class": "",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 441
         },
@@ -7636,7 +9841,12 @@
                 "President Walker"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 442
         },
@@ -7653,7 +9863,12 @@
                 "President Walker"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 443
         },
@@ -7669,7 +9884,12 @@
                 "Bedroom"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 444
         },
@@ -7686,7 +9906,12 @@
                 "Hexa's CEO"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 445
         },
@@ -7703,7 +9928,12 @@
                 "Museum"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 446
         },
@@ -7720,7 +9950,12 @@
                 "callCenter"
             ],
             "class": "artifact",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 447
         },
@@ -7737,7 +9972,12 @@
                 "Hexa's CEO"
             ],
             "class": "environment",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 448
         },
@@ -7754,7 +9994,12 @@
                 "callCenter"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 449
         },
@@ -7771,7 +10016,12 @@
                 "MonkeyVision"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 450
         },
@@ -7788,7 +10038,12 @@
                 "Mailman"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 451
         },
@@ -7804,7 +10059,12 @@
                 "Bedroom"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 452
         },
@@ -7821,7 +10081,12 @@
                 "Desktop"
             ],
             "class": "environment",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 453
         },
@@ -7837,7 +10102,12 @@
                 "Bedroom"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 454
         },
@@ -7854,7 +10124,12 @@
                 "ethanEdge"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 455
         },
@@ -7871,7 +10146,12 @@
                 "callCenter"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 456
         },
@@ -7888,7 +10168,12 @@
                 "MonkeyVision"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 457
         },
@@ -7905,7 +10190,12 @@
                 "ghostWriters"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 458
         },
@@ -7922,7 +10212,12 @@
                 "sayCheese"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 459
         },
@@ -7939,7 +10234,12 @@
                 "MonkeyVision"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 460
         },
@@ -7956,7 +10256,12 @@
                 "ghostWriters"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 461
         },
@@ -7972,7 +10277,12 @@
                 "Phone"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 462
         },
@@ -7990,7 +10300,12 @@
                 "President Walker"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 463
         },
@@ -8007,7 +10322,12 @@
                 "ghostWriters"
             ],
             "class": "",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 464
         },
@@ -8024,7 +10344,12 @@
                 "ghostWriters"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 465
         },
@@ -8040,7 +10365,12 @@
                 "Email"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 466
         },
@@ -8058,7 +10388,12 @@
                 "Museum"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 467
         },
@@ -8074,7 +10409,12 @@
                 "Phone"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 468
         },
@@ -8091,7 +10431,12 @@
                 "callCenter"
             ],
             "class": "artifact",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 469
         },
@@ -8108,7 +10453,12 @@
                 "ghostWriters"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 470
         },
@@ -8125,7 +10475,12 @@
                 "ghostWriters"
             ],
             "class": "",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 471
         },
@@ -8142,7 +10497,12 @@
                 "MonkeyVision"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 472
         },
@@ -8160,7 +10520,12 @@
                 "President Walker"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 473
         },
@@ -8177,7 +10542,12 @@
                 "ghostWriters"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 474
         },
@@ -8195,7 +10565,12 @@
                 "Hexa's CEO"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 475
         },
@@ -8212,7 +10587,12 @@
                 "ethanEdge"
             ],
             "class": "artifact",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 476
         },
@@ -8229,7 +10609,12 @@
                 "Museum"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 477
         },
@@ -8246,7 +10631,12 @@
                 "ethanEdge"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 478
         },
@@ -8263,7 +10653,12 @@
                 "sayCheese"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 479
         },
@@ -8280,7 +10675,12 @@
                 "ethanEdge"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 480
         },
@@ -8297,7 +10697,12 @@
                 "sayCheese"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 481
         },
@@ -8314,7 +10719,12 @@
                 "ethanEdge"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 482
         },
@@ -8331,7 +10741,12 @@
                 "ethanEdge"
             ],
             "class": "cut-scene",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 483
         },
@@ -8348,7 +10763,12 @@
                 "sayCheese"
             ],
             "class": "text",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 484
         },
@@ -8365,7 +10785,12 @@
                 "Museum"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 485
         },
@@ -8380,7 +10805,12 @@
                 "sayCheese"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 486
         },
@@ -8397,7 +10827,12 @@
                 "sayCheese"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 487
         },
@@ -8412,7 +10847,12 @@
                 "callCenter"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 488
         },
@@ -8427,7 +10867,12 @@
                 "callCenter"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 489
         },
@@ -8443,7 +10888,12 @@
                 "ethanEdge"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 490
         },
@@ -8458,7 +10908,12 @@
                 "callCenter"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 491
         },
@@ -8474,7 +10929,12 @@
                 "elevatorCrusoe"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 492
         },
@@ -8489,7 +10949,12 @@
                 "elevatorCrusoe"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 493
         },
@@ -8504,7 +10969,12 @@
                 "elevatorCrusoe"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 494
         },
@@ -8520,7 +10990,12 @@
                 "ethanEdge"
             ],
             "class": "dialogue",
-            "inputVisible": false,
+            "inputVisible": [
+                false,
+                false,
+                false,
+                false
+            ],
             "inputValue": "",
             "id": 495
         }
